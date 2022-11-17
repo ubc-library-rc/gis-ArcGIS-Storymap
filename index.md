@@ -6,7 +6,7 @@ nav_order: 1
 
 ## Note: this workshop is in development and not yet complete.
 
-Description...
+This workshop is part 2 of visualizing Data in ArcGIS Online with a focus on creating Storymap with ArcGIS Online platform and tools.
 
 ## Learning objectives
 
