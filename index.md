@@ -1,28 +1,45 @@
 ---
 layout: default
-title: Outline
+title: Creating Storymap in ArcGIS Online
 nav_order: 1
 ---
 
 ## Note: this workshop is in development and not yet complete.
+## Goals
 
-This workshop is part 2 of visualizing Data in ArcGIS Online with a focus on creating Storymap with ArcGIS Online platform and tools.
+This workshop is part 2 of visualizing Data in ArcGIS Online, focusing on creating Storymap with the ArcGIS Online platform and tools. This workshop is intended for those with introductory knowledge or experience with ArcGIS Online but looking for advanced features and functions of the story maps. 
 
 ## Learning objectives
 
 At the end of this workshop, you will be able to:
-1.
-2.
-3.
+- Configuring design and themes
+- Adding basic feature 
+    - Text, Button, Separator, logo
+- Embedding media in Story Map
+    - Map, image, video, web app, swipe, timeline
+- Configuring pop-ups
+- Embedding immersive content
+    - Sidecar, map tour, slideshow
+- Publishing and sharing the story map
 
-## Schedule
+## Workshop Outline
 
-| 0:00 | Welcome and using Zoom|
-| 0:05 | Introduction |  
-| 0:15 |  |
-| 0:30 |  |   
-| 0:45 |  |
-| 1:00 | Wrap-up and Discussion |
+- Adding and exploring data from local and ArcGIS Online
+- Reviewing how to create a web map
+- Creating a Storymap from scratch
 
-## Resources
-* [eg. link to external slides]
+## Setup
+
+You will need to sign up for a free ArcGIS public account ahead of time. If you have an organizational account with Esri, you can choose to use your regular sign-in or create a separate free account.
+
+1. Log in with the organization's URL
+![Fig_1](../images/Fig_1.png)
+![Fig_2](../images/Fig_2.png)
+2. Click Create an ArcGIS Public Account and follow the steps below:
+![Fig_3](../image/Fig_3.png)
+![Fig_4](../image/Fig4.png)
+
+## Geospatial Information Resource at UBC
+- General Informational website for all things UBC GIS: <https://gis.ubc.ca/>
+- UBC Library’s guide for finding and working with GIS resources: <https://guides.library.ubc.ca/gis>
+- Connect with UBC's GIS Slack: <https://ubcgis.slack.com/>
