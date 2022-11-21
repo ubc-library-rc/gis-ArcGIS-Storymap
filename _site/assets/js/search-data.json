@@ -5,72 +5,84 @@
     "url": "http://localhost:4000/acknowledgements.html",
     "relUrl": "/acknowledgements.html"
   },"1": {
-    "doc": "Outline",
+    "doc": "Creating Storymap in ArcGIS Online",
     "title": "Note: this workshop is in development and not yet complete.",
-    "content": "This workshop is part 2 of visualizing Data in ArcGIS Online with a focus on creating Storymap with ArcGIS Online platform and tools. ",
+    "content": " ",
     "url": "http://localhost:4000/#note-this-workshop-is-in-development-and-not-yet-complete",
     "relUrl": "/#note-this-workshop-is-in-development-and-not-yet-complete"
   },"2": {
-    "doc": "Outline",
+    "doc": "Creating Storymap in ArcGIS Online",
+    "title": "Goals",
+    "content": "This workshop is part 2 of visualizing Data in ArcGIS Online, focusing on creating Storymap with the ArcGIS Online platform and tools. This workshop is intended for those with introductory knowledge or experience with ArcGIS Online but looking for advanced features and functions of the story maps. ",
+    "url": "http://localhost:4000/#goals",
+    "relUrl": "/#goals"
+  },"3": {
+    "doc": "Creating Storymap in ArcGIS Online",
     "title": "Learning objectives",
-    "content": "At the end of this workshop, you will be able to: 1. 2. 3. ",
+    "content": "At the end of this workshop, you will be able to: . | Configuring design and themes | Adding basic feature . | Text, Button, Separator, logo | . | Embedding media in Story Map . | Map, image, video, web app, swipe, timeline | . | Configuring pop-ups | Embedding immersive content . | Sidecar, map tour, slideshow | . | Publishing and sharing the story map | . ",
     "url": "http://localhost:4000/#learning-objectives",
     "relUrl": "/#learning-objectives"
-  },"3": {
-    "doc": "Outline",
-    "title": "Schedule",
-    "content": "| 0:00 | Welcome and using Zoom | . | 0:05 | Introduction | . | 0:15 |   | . | 0:30 |   | . | 0:45 |   | . | 1:00 | Wrap-up and Discussion | . ",
-    "url": "http://localhost:4000/#schedule",
-    "relUrl": "/#schedule"
   },"4": {
-    "doc": "Outline",
-    "title": "Resources",
-    "content": ". | [eg. link to external slides] | . ",
-    "url": "http://localhost:4000/#resources",
-    "relUrl": "/#resources"
+    "doc": "Creating Storymap in ArcGIS Online",
+    "title": "Workshop Outline",
+    "content": ". | Adding and exploring data from local and ArcGIS Online | Reviewing how to create a web map | Creating a Storymap from scratch | . ",
+    "url": "http://localhost:4000/#workshop-outline",
+    "relUrl": "/#workshop-outline"
   },"5": {
-    "doc": "Outline",
-    "title": "Outline",
+    "doc": "Creating Storymap in ArcGIS Online",
+    "title": "Setup",
+    "content": "You will need to sign up for a free ArcGIS public account ahead of time. If you have an organizational account with Esri, you can choose to use your regular sign-in or create a separate free account. | Log in with the organization’s URL | Click Create an ArcGIS Public Account and follow the steps below: | . ",
+    "url": "http://localhost:4000/#setup",
+    "relUrl": "/#setup"
+  },"6": {
+    "doc": "Creating Storymap in ArcGIS Online",
+    "title": "Geospatial Information Resource at UBC",
+    "content": ". | General Informational website for all things UBC GIS: https://gis.ubc.ca/ | UBC Library’s guide for finding and working with GIS resources: https://guides.library.ubc.ca/gis | Connect with UBC’s GIS Slack: https://ubcgis.slack.com/ | . ",
+    "url": "http://localhost:4000/#geospatial-information-resource-at-ubc",
+    "relUrl": "/#geospatial-information-resource-at-ubc"
+  },"7": {
+    "doc": "Creating Storymap in ArcGIS Online",
+    "title": "Creating Storymap in ArcGIS Online",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"6": {
+  },"8": {
     "doc": "Introduction",
     "title": "Introduction",
     "content": "Placeholder for first page of lesson . ",
     "url": "http://localhost:4000/content/introduction.html",
     "relUrl": "/content/introduction.html"
-  },"7": {
+  },"9": {
     "doc": "Land acknowledgement",
     "title": "Land acknowledgement",
     "content": "Before beginning the workshop, we’d like to acknowledge the indigenous lands where we are located. UBC Vancouver is located on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam), səl̓ilwətaɁɬ təməxʷ (Tsleil-Waututh), Stz’uminus, S’ólh Téméxw (Stó:lō), Skwxwú7mesh-ulh Temíx̱w (Squamish), and Coast Salish peoples. Please take a moment to explore native-land.ca so that you can visualize the indigenous territories, languages, and treaties in your area. ",
     "url": "http://localhost:4000/land-acknowledgement.html",
     "relUrl": "/land-acknowledgement.html"
-  },"8": {
+  },"10": {
     "doc": "Participating online",
     "title": "Participating online",
     "content": "Active participation enlivens the session with other voices and perspectives. We encourage you to engage with instructors and with each other. Microphones are muted by default to improve audio quality and recording is disabled to preserve participant privacy. The Zoom toolbar provides several ways to be part of the conversation: . ",
     "url": "http://localhost:4000/online.html",
     "relUrl": "/online.html"
-  },"9": {
+  },"11": {
     "doc": "Participating online",
     "title": "Reactions menu",
     "content": "Open the Reactions menu and click an icon to communicate with the instructors. Use this to answer yes/no questions or to raise your hand when instructors invite you to ask a question, comment, or share your screen. ",
     "url": "http://localhost:4000/online.html#reactions-menu",
     "relUrl": "/online.html#reactions-menu"
-  },"10": {
+  },"12": {
     "doc": "Participating online",
     "title": "Chat window",
     "content": "Use the Chat window to comment or ask a question at any time. Instructors will do their best to respond, sometimes waiting for a break in the lesson to do so. The Chat window is a good place to report problems with your audio connection. Instructors may also use it to share links to material mentioned in the session. ",
     "url": "http://localhost:4000/online.html#chat-window",
     "relUrl": "/online.html#chat-window"
-  },"11": {
+  },"13": {
     "doc": "Participating online",
     "title": "Share your screen",
     "content": "In some cases instructors may invite you to share your screen. Raise your hand to indicate that you’re ready to share. When called upon click Share screen, select a window to display, and click Share. ",
     "url": "http://localhost:4000/online.html#share-your-screen",
     "relUrl": "/online.html#share-your-screen"
-  },"12": {
+  },"14": {
     "doc": "Participating online",
     "title": "Contribute to the Whiteboard",
     "content": "The Whiteboard is a collaborative space that everyone can annotate with drawings and text. When the whiteboard is shared click View options and select Annotate. This opens the annotation toolbar. Drawings and text you add to the screen will be visible to everyone in the session or breakout room. ",
