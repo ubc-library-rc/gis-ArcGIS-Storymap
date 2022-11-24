@@ -36,8 +36,8 @@ You will need to sign up for a free ArcGIS public account ahead of time. If you 
 ![Fig_1](content/images/Fig_1.png)
 ![Fig_2](content/images/Fig_2.png)
 2. Click Create an ArcGIS Public Account and follow the steps below:
-![Fig_3](content/image/Fig_3.png)
-![Fig_4](content/image/Fig4.png)
+![Fig_3](content/images/Fig_3.png)
+![Fig_4](content/images/Fig4.png)
 
 ## Geospatial Information Resource at UBC
 - General Informational website for all things UBC GIS: <https://gis.ubc.ca/>
