@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Creating Storymap in ArcGIS Online
+title: Outline
 nav_order: 1
+has_children: true
+has_toc: false
 ---
 
 ## Note: this workshop is in development and not yet complete.
@@ -17,7 +19,6 @@ At the end of this workshop, you will be able to:
     - Text, Button, Separator, logo
 - Embedding media in Story Map
     - Map, image, video, web app, swipe, timeline
-- Configuring pop-ups
 - Embedding immersive content
     - Sidecar, map tour, slideshow
 - Publishing and sharing the story map
@@ -32,12 +33,9 @@ At the end of this workshop, you will be able to:
 
 You will need to sign up for a free ArcGIS public account ahead of time. If you have an organizational account with Esri, you can choose to use your regular sign-in or create a separate free account.
 
-1. Log in with the organization's URL
-![Fig_1](content/images/Fig_1.png)
-![Fig_2](content/images/Fig_2.png)
-2. Click Create an ArcGIS Public Account and follow the steps below:
-![Fig_3](content/images/Fig_3.png)
-![Fig_4](content/images/Fig4.png)
+1. [Log in with the organization's URL](/gis-ArcGIS-Storymap/setup_url.md)
+
+2. [Click Create an ArcGIS Public Account](/gis-ArcGIS-Storymap/setup_public.md)
 
 ## Geospatial Information Resource at UBC
 - General Informational website for all things UBC GIS: <https://gis.ubc.ca/>

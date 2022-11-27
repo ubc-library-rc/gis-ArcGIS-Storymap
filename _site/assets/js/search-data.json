@@ -1,92 +1,146 @@
 {"0": {
+    "doc": "Add data layer from local",
+    "title": "Add data layer from local",
+    "content": " ",
+    "url": "http://localhost:4000/content/Upload_data.html",
+    "relUrl": "/content/Upload_data.html"
+  },"1": {
+    "doc": "Create a Web Map",
+    "title": "Create a Web Map",
+    "content": " ",
+    "url": "http://localhost:4000/content/Webmap_steps.html",
+    "relUrl": "/content/Webmap_steps.html"
+  },"2": {
     "doc": "Acknowledgements",
     "title": "Acknowledgements",
     "content": "Site template adapted from the just-the-docs Jekyll template created by Patrick Marsceil and available under the MIT License. ",
     "url": "http://localhost:4000/acknowledgements.html",
     "relUrl": "/acknowledgements.html"
-  },"1": {
-    "doc": "Creating Storymap in ArcGIS Online",
+  },"3": {
+    "doc": "Outline",
     "title": "Note: this workshop is in development and not yet complete.",
     "content": " ",
     "url": "http://localhost:4000/#note-this-workshop-is-in-development-and-not-yet-complete",
     "relUrl": "/#note-this-workshop-is-in-development-and-not-yet-complete"
-  },"2": {
-    "doc": "Creating Storymap in ArcGIS Online",
+  },"4": {
+    "doc": "Outline",
     "title": "Goals",
     "content": "This workshop is part 2 of visualizing Data in ArcGIS Online, focusing on creating Storymap with the ArcGIS Online platform and tools. This workshop is intended for those with introductory knowledge or experience with ArcGIS Online but looking for advanced features and functions of the story maps. ",
     "url": "http://localhost:4000/#goals",
     "relUrl": "/#goals"
-  },"3": {
-    "doc": "Creating Storymap in ArcGIS Online",
+  },"5": {
+    "doc": "Outline",
     "title": "Learning objectives",
-    "content": "At the end of this workshop, you will be able to: . | Configuring design and themes | Adding basic feature . | Text, Button, Separator, logo | . | Embedding media in Story Map . | Map, image, video, web app, swipe, timeline | . | Configuring pop-ups | Embedding immersive content . | Sidecar, map tour, slideshow | . | Publishing and sharing the story map | . ",
+    "content": "At the end of this workshop, you will be able to: . | Configuring design and themes | Adding basic feature . | Text, Button, Separator, logo | . | Embedding media in Story Map . | Map, image, video, web app, swipe, timeline | . | Embedding immersive content . | Sidecar, map tour, slideshow | . | Publishing and sharing the story map | . ",
     "url": "http://localhost:4000/#learning-objectives",
     "relUrl": "/#learning-objectives"
-  },"4": {
-    "doc": "Creating Storymap in ArcGIS Online",
+  },"6": {
+    "doc": "Outline",
     "title": "Workshop Outline",
     "content": ". | Adding and exploring data from local and ArcGIS Online | Reviewing how to create a web map | Creating a Storymap from scratch | . ",
     "url": "http://localhost:4000/#workshop-outline",
     "relUrl": "/#workshop-outline"
-  },"5": {
-    "doc": "Creating Storymap in ArcGIS Online",
+  },"7": {
+    "doc": "Outline",
     "title": "Setup",
-    "content": "You will need to sign up for a free ArcGIS public account ahead of time. If you have an organizational account with Esri, you can choose to use your regular sign-in or create a separate free account. | Log in with the organization’s URL | Click Create an ArcGIS Public Account and follow the steps below: | . ",
+    "content": "You will need to sign up for a free ArcGIS public account ahead of time. If you have an organizational account with Esri, you can choose to use your regular sign-in or create a separate free account. | Log in with the organization’s URL . | Click Create an ArcGIS Public Account . | . ",
     "url": "http://localhost:4000/#setup",
     "relUrl": "/#setup"
-  },"6": {
-    "doc": "Creating Storymap in ArcGIS Online",
+  },"8": {
+    "doc": "Outline",
     "title": "Geospatial Information Resource at UBC",
     "content": ". | General Informational website for all things UBC GIS: https://gis.ubc.ca/ | UBC Library’s guide for finding and working with GIS resources: https://guides.library.ubc.ca/gis | Connect with UBC’s GIS Slack: https://ubcgis.slack.com/ | . ",
     "url": "http://localhost:4000/#geospatial-information-resource-at-ubc",
     "relUrl": "/#geospatial-information-resource-at-ubc"
-  },"7": {
-    "doc": "Creating Storymap in ArcGIS Online",
-    "title": "Creating Storymap in ArcGIS Online",
+  },"9": {
+    "doc": "Outline",
+    "title": "Outline",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"8": {
+  },"10": {
     "doc": "Introduction",
     "title": "Introduction",
     "content": "Placeholder for first page of lesson . ",
     "url": "http://localhost:4000/content/introduction.html",
     "relUrl": "/content/introduction.html"
-  },"9": {
+  },"11": {
+    "doc": "Introduction",
+    "title": "What is GIS?",
+    "content": "Geographic Information System is a spatial system that creates, manages, analyzes, and maps all types of data. GIS helps users understand patterns, relationships, and geographic context, which improves communication and efficiency as well as better management and decision-making. GIS provides a foundation for mapping and analysis that is used in science and almost every industry. ",
+    "url": "http://localhost:4000/content/introduction.html#what-is-gis",
+    "relUrl": "/content/introduction.html#what-is-gis"
+  },"12": {
+    "doc": "Introduction",
+    "title": "Desktop GIS vs. Online GIS",
+    "content": " ",
+    "url": "http://localhost:4000/content/introduction.html#desktop-gis-vs-online-gis",
+    "relUrl": "/content/introduction.html#desktop-gis-vs-online-gis"
+  },"13": {
+    "doc": "Introduction",
+    "title": "What is Storymap?",
+    "content": "-Classic Storymap (Old Version) . -ArcGIS Storymap (New Version) . ",
+    "url": "http://localhost:4000/content/introduction.html#what-is-storymap",
+    "relUrl": "/content/introduction.html#what-is-storymap"
+  },"14": {
     "doc": "Land acknowledgement",
     "title": "Land acknowledgement",
     "content": "Before beginning the workshop, we’d like to acknowledge the indigenous lands where we are located. UBC Vancouver is located on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam), səl̓ilwətaɁɬ təməxʷ (Tsleil-Waututh), Stz’uminus, S’ólh Téméxw (Stó:lō), Skwxwú7mesh-ulh Temíx̱w (Squamish), and Coast Salish peoples. Please take a moment to explore native-land.ca so that you can visualize the indigenous territories, languages, and treaties in your area. ",
     "url": "http://localhost:4000/land-acknowledgement.html",
     "relUrl": "/land-acknowledgement.html"
-  },"10": {
+  },"15": {
     "doc": "Participating online",
     "title": "Participating online",
     "content": "Active participation enlivens the session with other voices and perspectives. We encourage you to engage with instructors and with each other. Microphones are muted by default to improve audio quality and recording is disabled to preserve participant privacy. The Zoom toolbar provides several ways to be part of the conversation: . ",
     "url": "http://localhost:4000/online.html",
     "relUrl": "/online.html"
-  },"11": {
+  },"16": {
     "doc": "Participating online",
     "title": "Reactions menu",
     "content": "Open the Reactions menu and click an icon to communicate with the instructors. Use this to answer yes/no questions or to raise your hand when instructors invite you to ask a question, comment, or share your screen. ",
     "url": "http://localhost:4000/online.html#reactions-menu",
     "relUrl": "/online.html#reactions-menu"
-  },"12": {
+  },"17": {
     "doc": "Participating online",
     "title": "Chat window",
     "content": "Use the Chat window to comment or ask a question at any time. Instructors will do their best to respond, sometimes waiting for a break in the lesson to do so. The Chat window is a good place to report problems with your audio connection. Instructors may also use it to share links to material mentioned in the session. ",
     "url": "http://localhost:4000/online.html#chat-window",
     "relUrl": "/online.html#chat-window"
-  },"13": {
+  },"18": {
     "doc": "Participating online",
     "title": "Share your screen",
     "content": "In some cases instructors may invite you to share your screen. Raise your hand to indicate that you’re ready to share. When called upon click Share screen, select a window to display, and click Share. ",
     "url": "http://localhost:4000/online.html#share-your-screen",
     "relUrl": "/online.html#share-your-screen"
-  },"14": {
+  },"19": {
     "doc": "Participating online",
     "title": "Contribute to the Whiteboard",
     "content": "The Whiteboard is a collaborative space that everyone can annotate with drawings and text. When the whiteboard is shared click View options and select Annotate. This opens the annotation toolbar. Drawings and text you add to the screen will be visible to everyone in the session or breakout room. ",
     "url": "http://localhost:4000/online.html#contribute-to-the-whiteboard",
     "relUrl": "/online.html#contribute-to-the-whiteboard"
+  },"20": {
+    "doc": "Log in ArcGIS Online through Organization URL",
+    "title": "Click Create an ArcGIS Public Account and follow the steps below:",
+    "content": "Step 1 . Step 2 . ",
+    "url": "http://localhost:4000/setup_public.html#click-create-an-arcgis-public-account-and-follow-the-steps-below",
+    "relUrl": "/setup_public.html#click-create-an-arcgis-public-account-and-follow-the-steps-below"
+  },"21": {
+    "doc": "Log in ArcGIS Online through Organization URL",
+    "title": "Log in ArcGIS Online through Organization URL",
+    "content": " ",
+    "url": "http://localhost:4000/setup_public.html",
+    "relUrl": "/setup_public.html"
+  },"22": {
+    "doc": "Log in ArcGIS Online through Organization URL",
+    "title": "Log in with the organization’s URL",
+    "content": "Step 1 . Step 1 . ",
+    "url": "http://localhost:4000/setup_url.html#log-in-with-the-organizations-url",
+    "relUrl": "/setup_url.html#log-in-with-the-organizations-url"
+  },"23": {
+    "doc": "Log in ArcGIS Online through Organization URL",
+    "title": "Log in ArcGIS Online through Organization URL",
+    "content": " ",
+    "url": "http://localhost:4000/setup_url.html",
+    "relUrl": "/setup_url.html"
   }
 }
