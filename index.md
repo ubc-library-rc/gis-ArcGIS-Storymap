@@ -33,9 +33,28 @@ At the end of this workshop, you will be able to:
 
 You will need to sign up for a free ArcGIS public account ahead of time. If you have an organizational account with Esri, you can choose to use your regular sign-in or create a separate free account.
 
-1. [Log in with the organization's URL](/gis-ArcGIS-Storymap/setup_url.md)
+1. [Log in with the organization's URL](./gis-ArcGIS-Storymap/setup_url.md)
 
-2. [Click Create an ArcGIS Public Account](/gis-ArcGIS-Storymap/setup_public.md)
+2. [Click Create an ArcGIS Public Account](./gis-ArcGIS-Storymap/setup_public.md)
+
+## Pre-requisite
+
+1. Workshop Data: all of the data for this workshop are under the license of creative commons or open data sources, please feel free to download and save it to your computer.
+
+To Do
+{: .label .label-green }
+Click on the 'Download Data' button below to start the download. Once complete, extract the contents of the .zip file.
+
+[Download Data](/content/Data.zip){: .btn .btn-blue }
+
+2. Preparing with four images that can be freely use for the workshop (links or save locally)
+
+
+
+
+
+
+
 
 ## Geospatial Information Resource at UBC
 - General Informational website for all things UBC GIS: <https://gis.ubc.ca/>

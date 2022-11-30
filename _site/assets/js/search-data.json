@@ -48,95 +48,101 @@
     "relUrl": "/#setup"
   },"8": {
     "doc": "Outline",
+    "title": "Pre-requisite",
+    "content": ". | Workshop Data: all of the data for this workshop are under the license of creative commons or open data sources, please feel free to download and save it to your computer. | . To Do . Click on the ‘Download Data’ button below to start the download. Once complete, extract the contents of the .zip file. Download Data . | Preparing with four images that can be freely use for the workshop (links or save locally) | . ",
+    "url": "http://localhost:4000/#pre-requisite",
+    "relUrl": "/#pre-requisite"
+  },"9": {
+    "doc": "Outline",
     "title": "Geospatial Information Resource at UBC",
     "content": ". | General Informational website for all things UBC GIS: https://gis.ubc.ca/ | UBC Library’s guide for finding and working with GIS resources: https://guides.library.ubc.ca/gis | Connect with UBC’s GIS Slack: https://ubcgis.slack.com/ | . ",
     "url": "http://localhost:4000/#geospatial-information-resource-at-ubc",
     "relUrl": "/#geospatial-information-resource-at-ubc"
-  },"9": {
+  },"10": {
     "doc": "Outline",
     "title": "Outline",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"10": {
+  },"11": {
     "doc": "Introduction",
     "title": "Introduction",
     "content": "Placeholder for first page of lesson . ",
     "url": "http://localhost:4000/content/introduction.html",
     "relUrl": "/content/introduction.html"
-  },"11": {
+  },"12": {
     "doc": "Introduction",
     "title": "What is GIS?",
     "content": "Geographic Information System is a spatial system that creates, manages, analyzes, and maps all types of data. GIS helps users understand patterns, relationships, and geographic context, which improves communication and efficiency as well as better management and decision-making. GIS provides a foundation for mapping and analysis that is used in science and almost every industry. ",
     "url": "http://localhost:4000/content/introduction.html#what-is-gis",
     "relUrl": "/content/introduction.html#what-is-gis"
-  },"12": {
-    "doc": "Introduction",
-    "title": "Desktop GIS vs. Online GIS",
-    "content": " ",
-    "url": "http://localhost:4000/content/introduction.html#desktop-gis-vs-online-gis",
-    "relUrl": "/content/introduction.html#desktop-gis-vs-online-gis"
   },"13": {
     "doc": "Introduction",
+    "title": "Desktop GIS vs. Online GIS",
+    "content": "Desktop GIS is software installed on a computer, the data created through software will be saved locally. Desktop software has more caility to perform complex analysis and costomize the display of data than online GIS. | Example: ArcGIS Pro, QGIS | . Online GIS or Web GIS is powered by web services that deliver data and capabilities and connect components. Web GIS can be implemented in cloud or as a hybrid comination of desktop and online. | Example: ArcGIS Online, Mapbox, Leaflet | . https://www.esri.com/about/newsroom/insider/web-gis-simply/ . ArcGIS Pro vs. ArcGIS Online: https://storymaps.arcgis.com/stories/bf37fb8c97ca405c8876553101933f4e . ",
+    "url": "http://localhost:4000/content/introduction.html#desktop-gis-vs-online-gis",
+    "relUrl": "/content/introduction.html#desktop-gis-vs-online-gis"
+  },"14": {
+    "doc": "Introduction",
     "title": "What is Storymap?",
-    "content": "-Classic Storymap (Old Version) . -ArcGIS Storymap (New Version) . ",
+    "content": ". | Classic Storymap (Old Version) has storytelling templates . | Cascade https://www.loc.gov/ghe/cascade/index.html?appid=2ac5e96246b442afa419a6c6842b1eae | Journal https://apl.maps.arcgis.com/apps/MapJournal/index.html?appid=551cd1e6ae634234b5eb0f1e1ed9a02f | Series https://wildfarmalliance.maps.arcgis.com/apps/MapSeries/index.html?appid=48771766bcf94e34b5fb19ca9e925a27 | Shortlist https://moncton.maps.arcgis.com/apps/Shortlist/index.html?appid=0dcea4990e3e424e936d7d459526f12f | Swipe&amp;Spyglass https://disasterresponse.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=30d087f4262c4fd0a2cbf37c6118cf1b | Tour https://orl.maps.arcgis.com/apps/MapJournal/index.html?appid=fbaa6ab2b5f645ae99595ee13fbe490d | more Classic Storymap: https://storymaps-classic.arcgis.com/en/gallery/#s=0&amp;md=storymaps-apps:map-tour | . | ArcGIS Storymap (New Version) . | Allows mix and match of Classic Storymap template | Custom themes with one click | New map desginer allows user to add basic info and annotation to a map | Fast loading, easy sharing and great looking | example: https://storymaps.arcgis.com/stories/4faf6d052c8f41b3b9b99c506642bca5 | . | . https://storymaps.arcgis.com/stories/0d565f8fb4874e4fb44c6cb7276c78fb . ",
     "url": "http://localhost:4000/content/introduction.html#what-is-storymap",
     "relUrl": "/content/introduction.html#what-is-storymap"
-  },"14": {
+  },"15": {
     "doc": "Land acknowledgement",
     "title": "Land acknowledgement",
     "content": "Before beginning the workshop, we’d like to acknowledge the indigenous lands where we are located. UBC Vancouver is located on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam), səl̓ilwətaɁɬ təməxʷ (Tsleil-Waututh), Stz’uminus, S’ólh Téméxw (Stó:lō), Skwxwú7mesh-ulh Temíx̱w (Squamish), and Coast Salish peoples. Please take a moment to explore native-land.ca so that you can visualize the indigenous territories, languages, and treaties in your area. ",
     "url": "http://localhost:4000/land-acknowledgement.html",
     "relUrl": "/land-acknowledgement.html"
-  },"15": {
+  },"16": {
     "doc": "Participating online",
     "title": "Participating online",
     "content": "Active participation enlivens the session with other voices and perspectives. We encourage you to engage with instructors and with each other. Microphones are muted by default to improve audio quality and recording is disabled to preserve participant privacy. The Zoom toolbar provides several ways to be part of the conversation: . ",
     "url": "http://localhost:4000/online.html",
     "relUrl": "/online.html"
-  },"16": {
+  },"17": {
     "doc": "Participating online",
     "title": "Reactions menu",
     "content": "Open the Reactions menu and click an icon to communicate with the instructors. Use this to answer yes/no questions or to raise your hand when instructors invite you to ask a question, comment, or share your screen. ",
     "url": "http://localhost:4000/online.html#reactions-menu",
     "relUrl": "/online.html#reactions-menu"
-  },"17": {
+  },"18": {
     "doc": "Participating online",
     "title": "Chat window",
     "content": "Use the Chat window to comment or ask a question at any time. Instructors will do their best to respond, sometimes waiting for a break in the lesson to do so. The Chat window is a good place to report problems with your audio connection. Instructors may also use it to share links to material mentioned in the session. ",
     "url": "http://localhost:4000/online.html#chat-window",
     "relUrl": "/online.html#chat-window"
-  },"18": {
+  },"19": {
     "doc": "Participating online",
     "title": "Share your screen",
     "content": "In some cases instructors may invite you to share your screen. Raise your hand to indicate that you’re ready to share. When called upon click Share screen, select a window to display, and click Share. ",
     "url": "http://localhost:4000/online.html#share-your-screen",
     "relUrl": "/online.html#share-your-screen"
-  },"19": {
+  },"20": {
     "doc": "Participating online",
     "title": "Contribute to the Whiteboard",
     "content": "The Whiteboard is a collaborative space that everyone can annotate with drawings and text. When the whiteboard is shared click View options and select Annotate. This opens the annotation toolbar. Drawings and text you add to the screen will be visible to everyone in the session or breakout room. ",
     "url": "http://localhost:4000/online.html#contribute-to-the-whiteboard",
     "relUrl": "/online.html#contribute-to-the-whiteboard"
-  },"20": {
+  },"21": {
     "doc": "Log in ArcGIS Online through Organization URL",
     "title": "Click Create an ArcGIS Public Account and follow the steps below:",
     "content": "Step 1 . Step 2 . ",
     "url": "http://localhost:4000/setup_public.html#click-create-an-arcgis-public-account-and-follow-the-steps-below",
     "relUrl": "/setup_public.html#click-create-an-arcgis-public-account-and-follow-the-steps-below"
-  },"21": {
+  },"22": {
     "doc": "Log in ArcGIS Online through Organization URL",
     "title": "Log in ArcGIS Online through Organization URL",
     "content": " ",
     "url": "http://localhost:4000/setup_public.html",
     "relUrl": "/setup_public.html"
-  },"22": {
+  },"23": {
     "doc": "Log in ArcGIS Online through Organization URL",
     "title": "Log in with the organization’s URL",
     "content": "Step 1 . Step 1 . ",
     "url": "http://localhost:4000/setup_url.html#log-in-with-the-organizations-url",
     "relUrl": "/setup_url.html#log-in-with-the-organizations-url"
-  },"23": {
+  },"24": {
     "doc": "Log in ArcGIS Online through Organization URL",
     "title": "Log in ArcGIS Online through Organization URL",
     "content": " ",
