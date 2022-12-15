@@ -33,9 +33,9 @@ At the end of this workshop, you will be able to:
 
 You will need to sign up for a free ArcGIS public account ahead of time. If you have an organizational account with Esri, you can choose to use your regular sign-in or create a separate free account.
 
-1. [Log in with the organization's URL](./gis-ArcGIS-Storymap/setup_url.md)
+1. [Log in with the organization's URL](/setup_url)
 
-2. [Click Create an ArcGIS Public Account](./gis-ArcGIS-Storymap/setup_public.md)
+2. [Click Create an ArcGIS Public Account](/setup_public)
 
 ## Pre-requisite
 
@@ -45,14 +45,9 @@ To Do
 {: .label .label-green }
 Click on the 'Download Data' button below to start the download. Once complete, extract the contents of the .zip file.
 
-[Download Data](/content/Data.zip){: .btn .btn-blue }
+[Download Data](/content/flood_risk.zip){: .btn .btn-blue }
 
-2. Preparing with four images that can be freely use for the workshop (links or save locally)
-
-
-
-
-
+2. Preparing with four images that can be freely use for the workshop (links or save locally), or you can use the images provided.
 
 
 

@@ -10,6 +10,6 @@ Step 1
 {: .label .label-step}
 ![Fig_1](./content/images/Fig_1.png)
 
-Step 1
+Step 2
 {: .label .label-step}
 ![Fig_2](content/images/Fig_2.png)

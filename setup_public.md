@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Log in ArcGIS Online through Organization URL
+title: Log in by creating an ArcGIS Online Public Account
 nav_order: 2
 parent: Outline
 ---
