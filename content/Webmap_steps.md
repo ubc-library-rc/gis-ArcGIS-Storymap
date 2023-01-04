@@ -12,7 +12,7 @@ An ArcGIS web map is an interactive display of geogrpahic information that you c
 *1*{: .circle .circle-blue} From the ribbon at the top of the page, click on the Map tab. This will open a new map.
 ![click_on_ribbon](images/click_on_ribbon.png)
 
-![map_view](images/map.png)
+![map_view](images/Map.png)
 
 *2*{: .circle .circle-blue} Feel free to play around with interactive icons and the tools from sidebar. 
 
