@@ -7,7 +7,7 @@
   },"1": {
     "doc": "Create a ArcGIS Online Storymap",
     "title": "Configure design and add a logo",
-    "content": "1 Click the Design on the top of the page. It will pop up a panel that allows us to select the style of cover page, optional story sections (e.g Navigation, credits) and theme. Feel free to select the cover and theme that works for your topic. 1 Scroll down the Design panel, you can upload a logo for your institution or project. Click the Upload Logo and select the ubc logo in the downloaded .zip file. You can provide an alternative text, in case the image does not load appropriately. 2 Another tab on the top of the page is the Preview, it allows you to preview the Storymap from user interface on different devices (e.g. PC, Tablet and phone). 3 Now add “The City of Abbotsford” as a title, and “A Flood Analysis in the city of Abbotsford, BC” as a subtitle. 4 Insert a image for the cover page from local files. You can use the prepared cover image in the downloaded .zip file or use your own image. 5 Click the green plus botton to add a text content block. Then, add the following descriptive text about the city of Abbotsford floods. “In November 2021, Abbotsford experienced one of Canada’s largest flooding disasters when the Nooksack River overflowed and breached its dyke and floodwater headed straight to Abbotsford, flooding Sumas Prairie. This event forced the closure of the US/Canada Border and Highway 1, effectively stopping the flow of people, goods and services and led to a significant loss of livestock and poultry, as well as the evacuation of over 1,100 properties and over 3,300 people from their homes” (The city of Abbotsford).” . 6 Click the green plus botton again and select video. You can upload videos from local devices or insert a link. Insert this link https://www.youtube.com/watch?v=lFGxha2KfWI&amp;t=1s to add a Youtube video to the Storymap. 7 Click the green plus botton and select Timeline to illustrate a series of events choronolgically. There are three timeline layout, choose Single side for this case. Add following texts for the timeline: . Timeline of 2021 flooding in the city of Abbotsford (The Abbotsford News) . | Friday, Nov 12, 2021 . | Envrionment Canada issued special weather statements warning of 75 to 120mm of rain over the weekend. | . | Sunday, Nov 14, 2021 . | The City of Abbotsford activated an emergency operations center due to heavy rain and flooding. By the end of the day, 100 mm of rain had been recorded, breaking the previous record. | . | Monday, Nov 15th, 2021 . | The city of Abbotsford declared a state of local emergency as flood waters swept across the community. Evauction orders were issued. | . | . 8 Click the green plus botton and select sidecar to add an immersive block with media panel and narrative panel. There are three layouts of sidecar, Docked, Floating and Slideshow. Feel free to select any of them work best for your story, but select Docked for this workshop. 9 Click the green plus botton inside sidecar narrative panel and select text to add some population data about the city of Abbotsford: . About Abbotsford Area: 375.6 km2 Population: 149,928 Population density: 399 residents per km2 . 10 Click the Add inside the media panel and select Map to add the Population of the City of Abbotsford web map created in previous section. Then, adjust the map extent and click Options on the left sidebar to display the legend of the map. 11 Add a new slide by clicking the green plus button in the side bar. Then, repeat Step 10 and 11 for the “Flood Risk of the City of Abbotsford** and add the descriptive text below: . Floods are common on the West coast of Canada and can happen any time of the year. Thus, it is significant for residents to be prepared for future flooding events. The flood risk map illustrates the flood risk of the city of Abbotsford in five levels: low, mid-low, medium, mid-high, and high. 12 Click the green plus botton and select sidecar to add a full-screen, media-focused layout with minimal accompanying text. Click the Add and select Swipe let readers easily compare two maps or images with an interactive slider. Add the before and after floods image provided in the downloaded .zip. Then,Click the textbox and add the following descriptive text: . What you should do if you must evacuate? . Always follow the instruction of local emergency officials Ensure each family member has waterproof clothing and footwear Lock all doors and windows and ensure gas, eletricity and water are shut off (the City of Abbotsford) . 13 Add a new slide by clicking the green plus button in the side bar. Then, click the add and select color to change the background to a single color and add the descriptive text below: . What should you do after a flood? . Check if the water supply is safe to drink Avoid floodwaters since it may be contaminated or electrically charged Return home only when authorities indicate it is safe Contact insurance and utility companies . The city of Abbotsford . 14 Click the green plus botton on the main page and select separator to break your content into clear sections with a subtle visual cue. 15 Let us explore some Tourism Attraction in the city of Abbotsford. Click the green plus botton on the main page and select map tour to showcase a set of places your readers can explore in any order, or be led through one at a time. Choose start from scratch and guided and map focus as layout. Click the add image to Add your prepared image here or insert a link: https://www.flickr.com/photos/spetersongallery/38464945140 . 16 Click the green plus botton within the text box to add a title Mill Lake and add “Take me to Google Street View” into a Botton. You use google map to find the Google Street View of Mill Lake, and copy the link to the Botton. Then, click add location and search and add the location of Mill Lake, BC to the map . 17 Add a new slide by clicking the green plus button in the side bar. Then, repeat Step 15 and 16 to add one more tourism attraction in the city of Abbotsford by yourself. The Map Options on the top right corner of Map Tour can adjust the map appearance, such as zoom level, basemap, point color and map type (2D or 3D). Check out the example Storymap . ",
+    "content": "1 Click the Design on the top of the page. It will pop up a panel that allows us to select the style of cover page, optional story sections (e.g Navigation, credits) and theme. Feel free to select the cover and theme that works for your topic. 1 Scroll down the Design panel, you can upload a logo for your institution or project. Click the Upload Logo and select the ubc logo in the downloaded .zip file. You can provide an alternative text, in case the image does not load appropriately. 2 Another tab on the top of the page is the Preview, it allows you to preview the Storymap from user interface on different devices (e.g. PC, Tablet and phone). 3 Now add “The City of Abbotsford” as a title, and “A Flood Analysis in the city of Abbotsford, BC” as a subtitle. 4 Insert a image for the cover page from local files. You can use the prepared cover image in the downloaded .zip file or use your own image. 5 Click the green plus botton to add a text content block. Then, add the following descriptive text about the city of Abbotsford floods. “In November 2021, Abbotsford experienced one of Canada’s largest flooding disasters when the Nooksack River overflowed and breached its dyke and floodwater headed straight to Abbotsford, flooding Sumas Prairie. This event forced the closure of the US/Canada Border and Highway 1, effectively stopping the flow of people, goods and services and led to a significant loss of livestock and poultry, as well as the evacuation of over 1,100 properties and over 3,300 people from their homes” (The city of Abbotsford).” . 6 Click the green plus botton again and select video. You can upload videos from local devices or insert a link. Insert this link https://www.youtube.com/watch?v=lFGxha2KfWI&amp;t=1s to add a Youtube video to the Storymap. 7 Click the green plus botton and select Timeline to illustrate a series of events choronolgically. There are three timeline layout, choose Single side for this case. Add following texts for the timeline: . Timeline of 2021 flooding in the city of Abbotsford (The Abbotsford News) . | Friday, Nov 12, 2021 . | Envrionment Canada issued special weather statements warning of 75 to 120mm of rain over the weekend. | . | Sunday, Nov 14, 2021 . | The City of Abbotsford activated an emergency operations center due to heavy rain and flooding. By the end of the day, 100 mm of rain had been recorded, breaking the previous record. | . | Monday, Nov 15th, 2021 . | The city of Abbotsford declared a state of local emergency as flood waters swept across the community. Evauction orders were issued. | . | . 8 Click the green plus botton and select sidecar to add an immersive block with media panel and narrative panel. There are three layouts of sidecar, Docked, Floating and Slideshow. Feel free to select any of them work best for your story, but select Docked for this workshop. 9 Click the green plus botton inside sidecar narrative panel and select text to add some population data about the city of Abbotsford: . About Abbotsford Area: 375.6 km2 Population: 149,928 Population density: 399 residents per km2 . 10 Click the Add inside the media panel and select Map to add the Population of the City of Abbotsford web map created in previous section. Then, adjust the map extent and click Options on the left sidebar to display the legend of the map. 11 Add a new slide by clicking the green plus button in the side bar. Then, repeat Step 10 and 11 for the “Flood Risk of the City of Abbotsford” and add the descriptive text below: . Floods are common on the West coast of Canada and can happen any time of the year. Thus, it is significant for residents to be prepared for future flooding events. The flood risk map illustrates the flood risk of the city of Abbotsford in five levels: low, mid-low, medium, mid-high, and high. 12 Click the green plus botton and select sidecar to add a full-screen, media-focused layout with minimal accompanying text. Click the Add and select Swipe let readers easily compare two maps or images with an interactive slider. Add the before and after floods image provided in the downloaded .zip. Then,Click the textbox and add the following descriptive text: . What you should do if you must evacuate? . Always follow the instruction of local emergency officials Ensure each family member has waterproof clothing and footwear Lock all doors and windows and ensure gas, eletricity and water are shut off (the City of Abbotsford) . 13 Add a new slide by clicking the green plus button in the side bar. Then, click the add and select color to change the background to a single color and add the descriptive text below: . What should you do after a flood? . Check if the water supply is safe to drink Avoid floodwaters since it may be contaminated or electrically charged Return home only when authorities indicate it is safe Contact insurance and utility companies . The city of Abbotsford . 14 Click the green plus botton on the main page and select separator to break your content into clear sections with a subtle visual cue. 15 Let us explore some Tourism Attraction in the city of Abbotsford. Click the green plus botton on the main page and select map tour to showcase a set of places your readers can explore in any order, or be led through one at a time. Choose start from scratch and guided and map focus as layout. Click the add image to Add your prepared image here or insert a link: https://www.flickr.com/photos/spetersongallery/38464945140 . 16 Click the green plus botton within the text box to add a title Mill Lake and add “Take me to Google Street View” into a Botton. You use google map to find the Google Street View of Mill Lake, and copy the link to the Botton. Then, click add location and search and add the location of Mill Lake, BC to the map . 17 Add a new slide by clicking the green plus button in the side bar. Then, repeat Step 15 and 16 to add one more tourism attraction in the city of Abbotsford by yourself. The Map Options on the top right corner of Map Tour can adjust the map appearance, such as zoom level, basemap, point color and map type (2D or 3D). Check out the example Storymap . ",
     "url": "http://localhost:4000/content/Storymap_steps.html#configure-design-and-add-a-logo",
     "relUrl": "/content/Storymap_steps.html#configure-design-and-add-a-logo"
   },"2": {
@@ -91,7 +91,7 @@
   },"15": {
     "doc": "Outline",
     "title": "Pre-requisite",
-    "content": ". | Workshop Data: all of the data for this workshop are under the license of creative commons or open data sources, please feel free to download and save it to your computer. | . To Do . Click on the ‘Download Data’ button below to start the download. Once complete, extract the contents of the .zip file. Download Data . | Preparing with four images that can be freely use for the workshop (links or save locally), or you can use the images provided. | . ",
+    "content": "1 Workshop Data: all of the data for this workshop are under the license of creative commons or open data sources, please feel free to download and save it to your computer. To Do . Click on the ‘Download Data’ button below to start the download. Once complete, extract the contents of the .zip file. Download Data . 2 Preparing with four images that can be freely use for the workshop (links or save locally), or you can use the images provided. ",
     "url": "http://localhost:4000/#pre-requisite",
     "relUrl": "/#pre-requisite"
   },"16": {
@@ -121,82 +121,94 @@
   },"20": {
     "doc": "Introduction",
     "title": "Desktop GIS vs. Online GIS",
-    "content": "Desktop GIS is software installed on a computer, the data created through software will be saved locally. Desktop software has more caility to perform complex analysis and costomize the display of data than online GIS. | Example: ArcGIS Pro, QGIS | . Online GIS or Web GIS is powered by web services that deliver data and capabilities and connect components. Web GIS can be implemented in cloud or as a hybrid comination of desktop and online. | Example: ArcGIS Online, Mapbox, Leaflet | . https://www.esri.com/about/newsroom/insider/web-gis-simply/ . ArcGIS Pro vs. ArcGIS Online: https://storymaps.arcgis.com/stories/bf37fb8c97ca405c8876553101933f4e . ",
+    "content": "Desktop GIS is software installed on a computer, the data created through software will be saved locally. Desktop software has more caility to perform complex analysis and costomize the display of data than online GIS. | Example: ArcGIS Pro, QGIS | . Online GIS or Web GIS is powered by web services that deliver data and capabilities and connect components. Web GIS can be implemented in cloud or as a hybrid comination of desktop and online. | Example: ArcGIS Online, Mapbox, Leaflet | . ",
     "url": "http://localhost:4000/content/introduction.html#desktop-gis-vs-online-gis",
     "relUrl": "/content/introduction.html#desktop-gis-vs-online-gis"
   },"21": {
     "doc": "Introduction",
+    "title": "ArcGIS pro vs. ArcGIS Online",
+    "content": "ArcGIS Pro and ArcGIS Online are two different platforms with different interfaces and features. ArcGIS Pro is a piece of software installed on a computer. ArcGIS Online is a platform for web GIS accessed through a website in a browser. Everything you do in ArcGIS Online is processed and stored on web servers, not the computer you are using to access it through a browser. More resources about Web GIS, ArcGIS Pro vs. ArcGIS Online . ",
+    "url": "http://localhost:4000/content/introduction.html#arcgis-pro-vs-arcgis-online",
+    "relUrl": "/content/introduction.html#arcgis-pro-vs-arcgis-online"
+  },"22": {
+    "doc": "Introduction",
     "title": "What is Storymap?",
-    "content": "ArcGIS StoryMaps is a story authoring web-based application that allows you to share your maps in the context of narrative text and other multimedia content. Storymap enables multimedia cartography and allows users to tell a story with interative map, pictures, videos and texts. It is easy to use and can be used a presentation tool. | Classic Storymap (Old Version) has storytelling templates . | Cascade | Journal | Series | Shortlist | Swipe&amp;Spyglass | Tour | more Classic Storymap example | . | ArcGIS Storymap (New Version) . | Allows mix and match of Classic Storymap template | Custom themes with one click | New map desginer allows user to add basic info and annotation to a map | Fast loading, easy sharing and great looking | example | . | . https://storymaps.arcgis.com/stories/0d565f8fb4874e4fb44c6cb7276c78fb . ",
+    "content": "ArcGIS StoryMaps is a story authoring web-based application that allows you to share your maps in the context of narrative text and other multimedia content. Storymap enables multimedia cartography and allows users to tell a story with interative map, pictures, videos and texts. It is easy to use and can be used a presentation tool. | Classic Storymap (Old Version) has storytelling templates . | Cascade | Journal | Series | Shortlist | Swipe&amp;Spyglass | Tour | more Classic Storymap example | . | ArcGIS Storymap (New Version) . | Allows mix and match of Classic Storymap template | Custom themes with one click | New map desginer allows user to add basic info and annotation to a map | Fast loading, easy sharing and great looking | example | . | . ",
     "url": "http://localhost:4000/content/introduction.html#what-is-storymap",
     "relUrl": "/content/introduction.html#what-is-storymap"
-  },"22": {
+  },"23": {
+    "doc": "Introduction",
+    "title": "A Workflow of Creating a Storymap",
+    "content": ". ",
+    "url": "http://localhost:4000/content/introduction.html#a-workflow-of-creating-a-storymap",
+    "relUrl": "/content/introduction.html#a-workflow-of-creating-a-storymap"
+  },"24": {
     "doc": "Land acknowledgement",
     "title": "Land acknowledgement",
     "content": "Before beginning the workshop, we’d like to acknowledge the indigenous lands where we are located. UBC Vancouver is located on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam), səl̓ilwətaɁɬ təməxʷ (Tsleil-Waututh), Stz’uminus, S’ólh Téméxw (Stó:lō), Skwxwú7mesh-ulh Temíx̱w (Squamish), and Coast Salish peoples. Please take a moment to explore native-land.ca so that you can visualize the indigenous territories, languages, and treaties in your area. ",
     "url": "http://localhost:4000/land-acknowledgement.html",
     "relUrl": "/land-acknowledgement.html"
-  },"23": {
+  },"25": {
     "doc": "Participating online",
     "title": "Participating online",
     "content": "Active participation enlivens the session with other voices and perspectives. We encourage you to engage with instructors and with each other. Microphones are muted by default to improve audio quality and recording is disabled to preserve participant privacy. The Zoom toolbar provides several ways to be part of the conversation: . ",
     "url": "http://localhost:4000/online.html",
     "relUrl": "/online.html"
-  },"24": {
+  },"26": {
     "doc": "Participating online",
     "title": "Reactions menu",
     "content": "Open the Reactions menu and click an icon to communicate with the instructors. Use this to answer yes/no questions or to raise your hand when instructors invite you to ask a question, comment, or share your screen. ",
     "url": "http://localhost:4000/online.html#reactions-menu",
     "relUrl": "/online.html#reactions-menu"
-  },"25": {
+  },"27": {
     "doc": "Participating online",
     "title": "Chat window",
     "content": "Use the Chat window to comment or ask a question at any time. Instructors will do their best to respond, sometimes waiting for a break in the lesson to do so. The Chat window is a good place to report problems with your audio connection. Instructors may also use it to share links to material mentioned in the session. ",
     "url": "http://localhost:4000/online.html#chat-window",
     "relUrl": "/online.html#chat-window"
-  },"26": {
+  },"28": {
     "doc": "Participating online",
     "title": "Share your screen",
     "content": "In some cases instructors may invite you to share your screen. Raise your hand to indicate that you’re ready to share. When called upon click Share screen, select a window to display, and click Share. ",
     "url": "http://localhost:4000/online.html#share-your-screen",
     "relUrl": "/online.html#share-your-screen"
-  },"27": {
+  },"29": {
     "doc": "Participating online",
     "title": "Contribute to the Whiteboard",
     "content": "The Whiteboard is a collaborative space that everyone can annotate with drawings and text. When the whiteboard is shared click View options and select Annotate. This opens the annotation toolbar. Drawings and text you add to the screen will be visible to everyone in the session or breakout room. ",
     "url": "http://localhost:4000/online.html#contribute-to-the-whiteboard",
     "relUrl": "/online.html#contribute-to-the-whiteboard"
-  },"28": {
+  },"30": {
     "doc": "Log in by creating an ArcGIS Online Public Account",
     "title": "Click Create an ArcGIS Public Account and follow the steps below:",
     "content": "Step 1 . Step 2 . ",
     "url": "http://localhost:4000/setup_public.html#click-create-an-arcgis-public-account-and-follow-the-steps-below",
     "relUrl": "/setup_public.html#click-create-an-arcgis-public-account-and-follow-the-steps-below"
-  },"29": {
+  },"31": {
     "doc": "Log in by creating an ArcGIS Online Public Account",
     "title": "Log in by creating an ArcGIS Online Public Account",
     "content": " ",
     "url": "http://localhost:4000/setup_public.html",
     "relUrl": "/setup_public.html"
-  },"30": {
+  },"32": {
     "doc": "Log in ArcGIS Online through Organization URL",
     "title": "Log in with the organization’s URL",
     "content": "Step 1 . Step 2 . ",
     "url": "http://localhost:4000/setup_url.html#log-in-with-the-organizations-url",
     "relUrl": "/setup_url.html#log-in-with-the-organizations-url"
-  },"31": {
+  },"33": {
     "doc": "Log in ArcGIS Online through Organization URL",
     "title": "Log in ArcGIS Online through Organization URL",
     "content": " ",
     "url": "http://localhost:4000/setup_url.html",
     "relUrl": "/setup_url.html"
-  },"32": {
+  },"34": {
     "doc": "Change Symbology",
     "title": "Symbology",
     "content": "1 Click on the properties of Flood risk polygon on the right sidebar, and then click the Edit layer style. 2 Click on the Field of Flood risk polygon on the right sidebar and change the display name of gridcode to Flood Risk. 3 Select flood Risk as the interested attribute, then pick Counts and Amounts (color) as a style. 4 Select an appropriate Symbol style and Classify data with the Natural Breaks method. Enter 5 for the Number of classes and label each each classes. 5 Click Done and Save your map. ",
     "url": "http://localhost:4000/symbology.html#symbology",
     "relUrl": "/symbology.html#symbology"
-  },"33": {
+  },"35": {
     "doc": "Change Symbology",
     "title": "Change Symbology",
     "content": " ",

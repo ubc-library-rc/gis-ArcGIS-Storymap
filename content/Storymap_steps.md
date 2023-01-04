@@ -51,7 +51,7 @@ The Storymap Content blocks and features will be covered in this section:
 
 *4*{: .circle .circle-blue} Insert a image for the cover page from local files. You can use the prepared cover image in the downloaded .zip file or use your own image.
 
-![click_on_ribbon](images/story4.png)
+![click_on_ribbon](images/Story4.png)
 
 *5*{: .circle .circle-blue} Click the **green plus botton** to add a text content block. Then, add the following descriptive text about the city of Abbotsford floods. 
 
@@ -95,7 +95,7 @@ Timeline of  2021 flooding in the city of Abbotsford (The Abbotsford News)
 *10*{: .circle .circle-blue} Click the **Add** inside the media panel and select Map to add the **Population of the City of Abbotsford** web map created in previous section. Then, adjust the map extent and click **Options** on the left sidebar to display the legend of the map.
 ![click_on_ribbon](images/story8.png)
 
-*11*{: .circle .circle-blue} Add a new slide by clicking the **green plus button** in the side bar. Then, repeat Step 10 and 11 for the "Flood Risk of the City of Abbotsford** and add the descriptive text below:
+*11*{: .circle .circle-blue} Add a new slide by clicking the **green plus button** in the side bar. Then, repeat Step 10 and 11 for the "Flood Risk of the City of Abbotsford" and add the descriptive text below:
 
 Floods are common on the West coast of Canada and can happen any time of the year. Thus, it is significant for residents to be prepared for future flooding events. The flood risk map illustrates the flood risk of the city of Abbotsford in five levels: low, mid-low, medium, mid-high, and high.
 

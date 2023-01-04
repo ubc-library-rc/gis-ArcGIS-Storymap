@@ -39,15 +39,16 @@ You will need to sign up for a free ArcGIS public account ahead of time. If you 
 
 ## Pre-requisite
 
-1. Workshop Data: all of the data for this workshop are under the license of creative commons or open data sources, please feel free to download and save it to your computer.
+
+*1*{: .circle .circle-blue} Workshop Data: all of the data for this workshop are under the license of creative commons or open data sources, please feel free to download and save it to your computer.
 
 To Do
 {: .label .label-green }
 Click on the 'Download Data' button below to start the download. Once complete, extract the contents of the .zip file.
 
-[Download Data](/content/flood_risk.zip){: .btn .btn-blue }
+[Download Data](/content/Downloads.zip){: .btn .btn-blue }
 
-2. Preparing with four images that can be freely use for the workshop (links or save locally), or you can use the images provided.
+*2*{: .circle .circle-blue} Preparing with four images that can be freely use for the workshop (links or save locally), or you can use the images provided.
 
 
 
