@@ -33,9 +33,9 @@ At the end of this workshop, you will be able to:
 
 You will need to sign up for a free ArcGIS public account ahead of time. If you have an organizational account with Esri, you can choose to use your regular sign-in or create a separate free account.
 
-1. [Log in with the organization's URL](gis-ArcGIS-Storymap/setup_url)
+1. [Log in with the organization's URL](./setup_url)
 
-2. [Click Create an ArcGIS Public Account](gis-ArcGIS-Storymap/setup_public)
+2. [Click Create an ArcGIS Public Account](./setup_public)
 
 ## Pre-requisite
 
