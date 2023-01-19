@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Create a ArcGIS Online Storymap
-nav_order: 10
+nav_order: 11
 has_children: true
 has_toc: true
 ---
@@ -18,67 +18,24 @@ The Storymap Content blocks and features will be covered in this section:
 - Preview the Storymap
 - Add basic features
     - Add title, subtitle, and Text
-    - Add a Botton
     - Add a Separator
-
 - Embed media
-    - Image
-    - Video
-    - Add a web map
-    - Swipe
-    - Timeline
-
-- Embed immersive content
+    - Add a video
+    - Add a Timeline
+- Embed immersive content and media
     - Sidecar
-    - map tour
+        - Add texts
+        - Add maps
     - Slideshow
-
+        - Swipe
+        - Single color background and add text
+    - Map Tour
+        - Insert a link
+        - Add a button
 - Publish and share the story map
 
-## Configure design and add a logo
-
-*1*{: .circle .circle-blue} Click the **Design** on the top of the page. It will pop up a panel that allows us to select the style of cover page, optional story sections (e.g Navigation, credits) and theme. Feel free to select the cover and theme that works for your topic. 
-
-![click_on_ribbon](images/story2.png) 
-
-*1*{: .circle .circle-blue} Scroll down the **Design** panel, you can upload a logo for your institution or project. Click the **Upload Logo** and select the ubc logo in the downloaded .zip file. You can provide an alternative text, in case the image does not load appropriately.
-
-![click_on_ribbon](images/story3.png)
-
-*2*{: .circle .circle-blue} Another tab on the top of the page is the **Preview**, it allows you to preview the Storymap from user interface on different devices (e.g. PC, Tablet and phone).
-
-*3*{: .circle .circle-blue} Now add **"The City of Abbotsford"** as a title, and **"A Flood Analysis in the city of Abbotsford, BC"** as a subtitle.
-
-*4*{: .circle .circle-blue} Insert a image for the cover page from local files. You can use the prepared cover image in the downloaded .zip file or use your own image.
-
-![click_on_ribbon](images/Story4.png)
-
-*5*{: .circle .circle-blue} Click the **green plus botton** to add a text content block. Then, add the following descriptive text about the city of Abbotsford floods. 
-
-"In November 2021, Abbotsford experienced one of Canada’s largest flooding disasters when the Nooksack River overflowed and breached its dyke and floodwater headed straight to Abbotsford, flooding Sumas Prairie. This event forced the closure of the US/Canada Border and Highway 1, effectively stopping the flow of people, goods and services and led to a significant loss of livestock and poultry, as well as the evacuation of over 1,100 properties and over 3,300 people from their homes" (The city of Abbotsford)."
-
-![click_on_ribbon](images/story5.png)
-
-*6*{: .circle .circle-blue} Click the **green plus botton** again and select **video**. You can upload videos from local devices or insert a link. Insert this link <https://www.youtube.com/watch?v=lFGxha2KfWI&t=1s> to add a Youtube video to the Storymap.
-
-![click_on_ribbon](images/story6.png)
 
 
-*7*{: .circle .circle-blue} Click the **green plus botton** and select **Timeline** to illustrate a series of events choronolgically. There are three timeline layout, choose **Single side** for this case.
-
-Add following texts for the timeline:
-
-Timeline of  2021 flooding in the city of Abbotsford (The Abbotsford News)
-
-- Friday, Nov 12, 2021
-    - Envrionment Canada issued special weather statements warning of 75 to 120mm of rain over the weekend.
-    
-- Sunday, Nov 14, 2021
-    - The City of Abbotsford activated an emergency operations center due to heavy rain and flooding. By the end of the day, 100 mm of rain had been recorded, breaking the previous record.
-- Monday, Nov 15th, 2021
-    - The city of Abbotsford declared a state of local emergency as flood waters swept across the community. Evauction orders were issued.
-
-![click_on_ribbon](images/story7.png)
 
 *8*{: .circle .circle-blue} Click the **green plus botton** and select sidecar to add an immersive block with media panel and narrative panel. There are three layouts of sidecar, **Docked**, **Floating** and **Slideshow**. Feel free to select any of them work best for your story, but select Docked for this workshop.
 
