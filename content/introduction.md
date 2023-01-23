@@ -7,10 +7,10 @@ nav_order: 6
 
 ## What is GIS?
 
-[Geographic Information System](https://www.esri.com/en-us/what-is-gis/overview) is a spatial system that creates, manages, analyzes, and maps all types of data. GIS helps users understand patterns, relationships, and geographic context, which improves communication and efficiency as well as better management and decision-making.
+[Geographic Information System](https://www.esri.com/en-us/what-is-gis/overview) is a spatial system that creates, manages, analyzes, and maps all types of data. GIS helps users understand patterns, relationships, and geographic context. Thus, improving communication, efficiency, management and decision-making.
 
 ## How is GIS used?
-GIS provides a foundation for mapping and analysis that is used in science and almost every industry. For instance:
+GIS provides a foundation for mapping and analysis that is used in science and most industry. For instance:
 - [Identify present-day envrionmental inequalities to redlining policies](https://storymaps.arcgis.com/stories/0f58d49c566b486482b3e64e9e5f7ac9)
 
 - [Visualize and communicate envrionmental changes](https://storymaps.arcgis.com/stories/5a231e5e7d474bb886f1172f51b4b019)
@@ -21,18 +21,18 @@ GIS provides a foundation for mapping and analysis that is used in science and a
 
 ## Desktop GIS vs. Online GIS
 
-Desktop GIS is software installed on a computer, the data created through software will be saved locally. Desktop software has more caility to perform complex analysis and costomize the display of data than online GIS.
+Desktop GIS is software installed on a computer, the data created through software will be saved locally. Desktop software has more capability to perform complex analysis and customize the display of data than online GIS.
 
 - Example: ArcGIS Pro, QGIS
 
-Online GIS or Web GIS is powered by web services that deliver data and capabilities and connect components. Web GIS can be implemented in cloud or as a hybrid comination of desktop and online.
+Online GIS or Web GIS is powered by web services that deliver data and capabilities and connect components. Web GIS can be implemented in cloud or as a hybrid combination of desktop and online.
 
 - Example: ArcGIS Online, Mapbox, Leaflet
 
 
 ## ArcGIS pro vs. ArcGIS Online
 
-ArcGIS Pro and ArcGIS Online are two different platforms with different interfaces and features. ArcGIS Pro is a piece of software installed on a computer. ArcGIS Online is a platform for web GIS accessed through a website in a browser. Everything you do in ArcGIS Online is processed and stored on web servers, not the computer you are using to access it through a browser.
+ArcGIS Pro and ArcGIS Online are two different platforms with different interfaces and features. ArcGIS Pro is a piece of software installed on a computer. ArcGIS Online is a platform for web GIS accessed through a website in a browser. Everything you do in ArcGIS Online is processed and stored on web servers, not the computer you are accessing through.
 
 More resources about
 [Web GIS](https://www.esri.com/about/newsroom/insider/web-gis-simply/),

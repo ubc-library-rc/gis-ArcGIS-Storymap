@@ -5,7 +5,7 @@ nav_order: 2
 parent: Outline
 ---
 
-##  Click Create an ArcGIS Public Account and follow the steps below:
+##  Create an ArcGIS Public Account and follow the steps below:
 Step 1
 {: .label .label-step} 
 Click Create an ArcGIS public account

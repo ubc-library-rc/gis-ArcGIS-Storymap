@@ -7,7 +7,7 @@ has_toc: true
 ---
 ## Create a Web Map
 
-An ArcGIS web map is an interactive display of geogrpahic information that you can use to tell stories and answer questions. Please sign into the ArcGIS online account before proceed next step.
+An ArcGIS web map is an interactive display of geogrpahic information that you can use to tell stories and answer questions. Please sign into the ArcGIS online account before proceeding to the next step.
 
 *1*{: .circle .circle-blue} From the ribbon at the top of the page, click on the Map tab. This will open a new map.
 ![click_on_ribbon](images/click_on_ribbon.png)

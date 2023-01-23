@@ -9,13 +9,13 @@ parent: Create a ArcGIS Online Storymap
 
 ### Insert a video
 
-*1*{: .circle .circle-blue} Click the **green plus botton** again and select **video**. You can upload videos from local devices or insert a link. Insert this link <https://www.youtube.com/watch?v=lFGxha2KfWI&t=1s> to add a Youtube video to the Storymap.
+*1*{: .circle .circle-blue} Click the **green plus button** again and select **video**. You can upload videos from local devices or insert a link. Insert this link <https://www.youtube.com/watch?v=lFGxha2KfWI&t=1s> to add a Youtube video to the Storymap.
 
 ![click_on_ribbon](images/story6.png)
 
 ### Create a Timeline
 
-*2*{: .circle .circle-blue} Click the **green plus botton** and select **Timeline** to illustrate a series of events choronolgically. There are three timeline layout, choose **Single side** for this case.
+*2*{: .circle .circle-blue} Click the **green plus button** and select **Timeline** to illustrate a series of events choronolgically. There are three timeline layout, choose **Single side** for this case.
 
 Add following texts for the timeline:
 

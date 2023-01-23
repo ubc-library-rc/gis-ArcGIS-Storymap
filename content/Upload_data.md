@@ -18,7 +18,7 @@ parent: Create a Web Map
 
 *3*{: .circle .circle-blue} Click on the **Create new folder**, create a folder named Storymap Workshop.
 
-![click_on_content](images/add_item.png) Click on the **New Item** to add data from **Your device**. [ArcGIS online supports .zip, csv, GeoJSON, kml etc.](https://doc.arcgis.com/en/arcgis-online/reference/supported-items.htm) In this workshop, we gonna add a shapefile to ArcGIS online. 
+![click_on_content](images/add_item.png) Click on the **New Item** to add data from **Your device**. [ArcGIS online supports .zip, csv, GeoJSON, kml etc.](https://doc.arcgis.com/en/arcgis-online/reference/supported-items.htm) In this workshop, we will add a shapefile to ArcGIS online. 
 
 {: .note}
 You need to store your shapfile in .zip

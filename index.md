@@ -10,7 +10,7 @@ has_toc: false
 # Diving Deeper with ArcGIS Online Storymap
 ## Goals
 
-This workshop is part 2 of visualizing Data in ArcGIS Online, focusing on creating Storymap with the ArcGIS Online platform and tools. This workshop is intended for those with introductory knowledge or experience with ArcGIS Online but looking for advanced features and functions of the story maps. There are three main sections: 1) Adding and exploring data from local and ArcGIS Online 2)Reviewing how to create a web map 3)Creating a Storymap from scratch. 
+This workshop is part 2 of visualizing data in ArcGIS Online, focusing on creating Storymap with the ArcGIS Online platform and tools. This workshop is intended for those with introductory knowledge or experience with ArcGIS Online but looking for advanced features and functions of the story maps. There are three main sections: 1) Adding and exploring data from local and ArcGIS Online 2) Reviewing how to create a web map 3) Creating a Storymap from scratch. 
 
 [Please feel free to review previous Introductory to ArcGIS Online Workshop](https://ubc-library-rc.github.io/intro-AGOL/)
 
@@ -18,7 +18,7 @@ This workshop is part 2 of visualizing Data in ArcGIS Online, focusing on creati
 
 At the end of this workshop, you will be able to:
 - Configure design and themes
-- Add basic Storymapfeatures 
+- Add basic Storymap features 
 - Embed medias in Storymap
 - Embed immersive content
 - Publish and share the Storymap
@@ -34,9 +34,9 @@ You will need to sign up for a free ArcGIS public account ahead of time. If you 
 
  [Log in with the organization's URL](./setup_url)
 
- [Click Create an ArcGIS Public Account](./setup_public)
+ [Create an ArcGIS Public Account](./setup_public)
 
-*2*{: .circle .circle-blue}Download Workshop Data
+*2*{: .circle .circle-blue} Download Workshop Data
 
 Click on the 'Download Data' button below to start the download. Once complete, extract the contents of the .zip file.
 
