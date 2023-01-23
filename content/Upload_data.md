@@ -9,7 +9,7 @@ parent: Create a Web Map
 # Create a flood risk map
 
 *1*{: .circle .circle-blue} From the ribbon at the top of the page, click on the **Content** tab. 
-![click_on_content](images/click_on_content.png)
+![click_on_content](images/Click_on_content.png)
 
 
 *2*{: .circle .circle-blue} Click on the **Create new folder**, create a folder named Storymap Workshop.
@@ -31,7 +31,7 @@ You need to store your shapfile in .zip
 
 *5*{: .circle .circle-blue} Add the **flood_risk_polygon** from **My Content**.
 
-![click_on_content](images/add_local_file.png)
+<img src="images/add_local_file.png" alt="add_data" style="height: 500px; width:500px;"/>
 
 *6*{: .circle .circle-blue} **Save** the flood risk map that we just created.
 

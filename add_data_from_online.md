@@ -20,11 +20,12 @@ parent: Create a Web Map
 
 *4*{: .circle .circle-blue} Where it says **Search for layers**, type "City of Abbotsford population_2016", and hit enter to see what layers may be available. Click on “Population - 2016” by City of Abbotsford. An information dialogue will open with information about this layer.
 
-![population](content/images/search_online.png)
+<img src="content/images/search_online.png" alt="population" style="height: 400px; width:400px;"/>
 
 *5*{: .circle .circle-blue} Click the **Add to Map** button, then click arrow next to Add layer search bar to see the list of layers. ArcGIS Online will choose a symbology for you, and the legend using this symbology will appear in the Symbology pane to the right of the map.
 
-![population](content/images/pop.png)
+
+<img src="content/images/pop.png" alt="population" style="height: 400px; width:400px;"/>
 
 *6*{: .circle .circle-blue} **Save** the population web map that we just created.
 

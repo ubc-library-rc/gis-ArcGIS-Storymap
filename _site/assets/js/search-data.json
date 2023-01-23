@@ -19,7 +19,7 @@
   },"3": {
     "doc": "Preview the Storymap",
     "title": "Preview",
-    "content": "Another tab on the top of the page is the Preview, it allows you to preview the Storymap from user interface on different devices (e.g. PC, Tablet and phone). You can preview the storymap at any stage of design your storymap. ",
+    "content": "Another tab on the top of the page is the Preview, it allows you to preview the Storymap from user interface on different devices (e.g. PC, Tablet and phone). ",
     "url": "http://localhost:4000/content/Preview.html#preview",
     "relUrl": "/content/Preview.html#preview"
   },"4": {
@@ -31,7 +31,7 @@
   },"5": {
     "doc": "Create a ArcGIS Online Storymap",
     "title": "ArcGIS Online Storymap",
-    "content": "To start a Storymap from scratch, go to Story Maps and click on New Story. Or from the top left of your web map, click on the three horizontal lines dropdown arrow and then right-click on Content. Click on the Create app and select ArcGIS Storymaps. The Storymap Content blocks and features will be covered in this section: . | Configure themes and add a logo | Preview the Storymap | Add basic features . | Add title, subtitle, and Text | Add a Separator | . | Embed media . | Add a video | Add a Timeline | . | Embed immersive content and media . | Sidecar . | Add texts | Add maps | . | Slideshow . | Swipe | Single color background and add text | . | Map Tour . | Insert a link | Add a button | . | . | Publish and share the story map | . 8 Click the green plus botton and select sidecar to add an immersive block with media panel and narrative panel. There are three layouts of sidecar, Docked, Floating and Slideshow. Feel free to select any of them work best for your story, but select Docked for this workshop. 9 Click the green plus botton inside sidecar narrative panel and select text to add some population data about the city of Abbotsford: . About Abbotsford Area: 375.6 km2 Population: 149,928 Population density: 399 residents per km2 . 10 Click the Add inside the media panel and select Map to add the Population of the City of Abbotsford web map created in previous section. Then, adjust the map extent and click Options on the left sidebar to display the legend of the map. 11 Add a new slide by clicking the green plus button in the side bar. Then, repeat Step 10 and 11 for the “Flood Risk of the City of Abbotsford” and add the descriptive text below: . Floods are common on the West coast of Canada and can happen any time of the year. Thus, it is significant for residents to be prepared for future flooding events. The flood risk map illustrates the flood risk of the city of Abbotsford in five levels: low, mid-low, medium, mid-high, and high. 12 Click the green plus botton and select sidecar to add a full-screen, media-focused layout with minimal accompanying text. Click the Add and select Swipe let readers easily compare two maps or images with an interactive slider. Add the before and after floods image provided in the downloaded .zip. Then,Click the textbox and add the following descriptive text: . What you should do if you must evacuate? . Always follow the instruction of local emergency officials Ensure each family member has waterproof clothing and footwear Lock all doors and windows and ensure gas, eletricity and water are shut off (the City of Abbotsford) . 13 Add a new slide by clicking the green plus button in the side bar. Then, click the add and select color to change the background to a single color and add the descriptive text below: . What should you do after a flood? . Check if the water supply is safe to drink Avoid floodwaters since it may be contaminated or electrically charged Return home only when authorities indicate it is safe Contact insurance and utility companies . The city of Abbotsford . 14 Click the green plus botton on the main page and select separator to break your content into clear sections with a subtle visual cue. 15 Let us explore some Tourism Attraction in the city of Abbotsford. Click the green plus botton on the main page and select map tour to showcase a set of places your readers can explore in any order, or be led through one at a time. Choose start from scratch and guided and map focus as layout. Click the add image to Add your prepared image here or insert a link: https://www.flickr.com/photos/spetersongallery/38464945140 . 16 Click the green plus botton within the text box to add a title Mill Lake and add “Take me to Google Street View” into a Botton. You use google map to find the Google Street View of Mill Lake, and copy the link to the Botton. Then, click add location and search and add the location of Mill Lake, BC to the map . 17 Add a new slide by clicking the green plus button in the side bar. Then, repeat Step 15 and 16 to add one more tourism attraction in the city of Abbotsford by yourself. The Map Options on the top right corner of Map Tour can adjust the map appearance, such as zoom level, basemap, point color and map type (2D or 3D). Check out the example Storymap . ",
+    "content": "To start a Storymap from scratch, go to Story Maps and click on New Story. Or from the top left of your web map, click on the three horizontal lines dropdown arrow and then right-click on Content. Click on the Create app and select ArcGIS Storymaps. The Storymap Content blocks and features will be covered in this section: . | Configure themes and add a logo | Preview the Storymap | Add basic features . | Add title, subtitle, and Text | Add a Separator | . | Embed media . | Add a video | Add a Timeline | . | Embed immersive content and media . | Sidecar . | Add texts | Add maps | . | Slideshow . | Swipe | Single color background and add text | . | Map Tour . | Insert a link | Add a button | . | . | Publish and share the story map | . Check out the example Storymap . ",
     "url": "http://localhost:4000/content/Storymap_steps.html#arcgis-online-storymap",
     "relUrl": "/content/Storymap_steps.html#arcgis-online-storymap"
   },"6": {
@@ -114,58 +114,58 @@
     "relUrl": "/#note-this-workshop-is-in-development-and-not-yet-complete"
   },"19": {
     "doc": "Outline",
-    "title": "Goals",
-    "content": "This workshop is part 2 of visualizing Data in ArcGIS Online, focusing on creating Storymap with the ArcGIS Online platform and tools. This workshop is intended for those with introductory knowledge or experience with ArcGIS Online but looking for advanced features and functions of the story maps. ",
-    "url": "http://localhost:4000/#goals",
-    "relUrl": "/#goals"
+    "title": "Diving Deeper with ArcGIS Online Storymap",
+    "content": " ",
+    "url": "http://localhost:4000/#diving-deeper-with-arcgis-online-storymap",
+    "relUrl": "/#diving-deeper-with-arcgis-online-storymap"
   },"20": {
     "doc": "Outline",
-    "title": "Learning objectives",
-    "content": "At the end of this workshop, you will be able to: . | Configuring design and themes | Adding basic feature . | Text, Button, Separator, logo | . | Embedding media in Story Map . | Map, image, video, web app, swipe, timeline | . | Embedding immersive content . | Sidecar, map tour, slideshow | . | Publishing and sharing the story map | . ",
-    "url": "http://localhost:4000/#learning-objectives",
-    "relUrl": "/#learning-objectives"
+    "title": "Goals",
+    "content": "This workshop is part 2 of visualizing Data in ArcGIS Online, focusing on creating Storymap with the ArcGIS Online platform and tools. This workshop is intended for those with introductory knowledge or experience with ArcGIS Online but looking for advanced features and functions of the story maps. There are three main sections: 1) Adding and exploring data from local and ArcGIS Online 2)Reviewing how to create a web map 3)Creating a Storymap from scratch. Please feel free to review previous Introductory to ArcGIS Online Workshop . ",
+    "url": "http://localhost:4000/#goals",
+    "relUrl": "/#goals"
   },"21": {
     "doc": "Outline",
-    "title": "Workshop Outline",
-    "content": ". | Adding and exploring data from local and ArcGIS Online | Reviewing how to create a web map | Creating a Storymap from scratch | . ",
-    "url": "http://localhost:4000/#workshop-outline",
-    "relUrl": "/#workshop-outline"
+    "title": "Learning objectives",
+    "content": "At the end of this workshop, you will be able to: . | Configure design and themes | Add basic Storymapfeatures | Embed medias in Storymap | Embed immersive content | Publish and share the Storymap | . ",
+    "url": "http://localhost:4000/#learning-objectives",
+    "relUrl": "/#learning-objectives"
   },"22": {
     "doc": "Outline",
     "title": "Setup",
-    "content": "You will need to sign up for a free ArcGIS public account ahead of time. If you have an organizational account with Esri, you can choose to use your regular sign-in or create a separate free account. | Log in with the organization’s URL . | Click Create an ArcGIS Public Account . | . ",
+    "content": "To Do . 1 Create ArcGIS Online Account . You will need to sign up for a free ArcGIS public account ahead of time. If you have an organizational account with Esri, you can choose to use your regular sign-in or create a separate free account. Log in with the organization’s URL . Click Create an ArcGIS Public Account . 2Download Workshop Data . Click on the ‘Download Data’ button below to start the download. Once complete, extract the contents of the .zip file. Download Data . Please prepare four images that can be freely use for the workshop (links or save locally), or you can use the images provided. All of the data for this workshop are under the license of creative commons or open data sources, please feel free to download and save it to your computer. ",
     "url": "http://localhost:4000/#setup",
     "relUrl": "/#setup"
   },"23": {
-    "doc": "Outline",
-    "title": "Pre-requisite",
-    "content": "1 Workshop Data: all of the data for this workshop are under the license of creative commons or open data sources, please feel free to download and save it to your computer. To Do . Click on the ‘Download Data’ button below to start the download. Once complete, extract the contents of the .zip file. Download Data . 2 Preparing with four images that can be freely use for the workshop (links or save locally), or you can use the images provided. ",
-    "url": "http://localhost:4000/#pre-requisite",
-    "relUrl": "/#pre-requisite"
-  },"24": {
     "doc": "Outline",
     "title": "Geospatial Information Resource at UBC",
     "content": ". | General Informational website for all things UBC GIS: https://gis.ubc.ca/ | UBC Library’s guide for finding and working with GIS resources: https://guides.library.ubc.ca/gis | Connect with UBC’s GIS Slack: https://ubcgis.slack.com/ | . ",
     "url": "http://localhost:4000/#geospatial-information-resource-at-ubc",
     "relUrl": "/#geospatial-information-resource-at-ubc"
-  },"25": {
+  },"24": {
     "doc": "Outline",
     "title": "Outline",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"26": {
+  },"25": {
     "doc": "Introduction",
     "title": "Introduction",
     "content": " ",
     "url": "http://localhost:4000/content/introduction.html",
     "relUrl": "/content/introduction.html"
-  },"27": {
+  },"26": {
     "doc": "Introduction",
     "title": "What is GIS?",
-    "content": "Geographic Information System is a spatial system that creates, manages, analyzes, and maps all types of data. GIS helps users understand patterns, relationships, and geographic context, which improves communication and efficiency as well as better management and decision-making. GIS provides a foundation for mapping and analysis that is used in science and almost every industry. ",
+    "content": "Geographic Information System is a spatial system that creates, manages, analyzes, and maps all types of data. GIS helps users understand patterns, relationships, and geographic context, which improves communication and efficiency as well as better management and decision-making. ",
     "url": "http://localhost:4000/content/introduction.html#what-is-gis",
     "relUrl": "/content/introduction.html#what-is-gis"
+  },"27": {
+    "doc": "Introduction",
+    "title": "How is GIS used?",
+    "content": "GIS provides a foundation for mapping and analysis that is used in science and almost every industry. For instance: . | Identify present-day envrionmental inequalities to redlining policies . | Visualize and communicate envrionmental changes . | Perform forecasting such as predict and prepare for flooding . | . ",
+    "url": "http://localhost:4000/content/introduction.html#how-is-gis-used",
+    "relUrl": "/content/introduction.html#how-is-gis-used"
   },"28": {
     "doc": "Introduction",
     "title": "Desktop GIS vs. Online GIS",
@@ -241,7 +241,7 @@
   },"40": {
     "doc": "Log in by creating an ArcGIS Online Public Account",
     "title": "Click Create an ArcGIS Public Account and follow the steps below:",
-    "content": "Step 1 . Step 2 . ",
+    "content": "Step 1 . Click Create an ArcGIS public account . Step 2 . Fill the information . ",
     "url": "http://localhost:4000/setup_public.html#click-create-an-arcgis-public-account-and-follow-the-steps-below",
     "relUrl": "/setup_public.html#click-create-an-arcgis-public-account-and-follow-the-steps-below"
   },"41": {

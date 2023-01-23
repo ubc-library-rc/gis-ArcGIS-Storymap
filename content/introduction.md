@@ -9,7 +9,15 @@ nav_order: 6
 
 [Geographic Information System](https://www.esri.com/en-us/what-is-gis/overview) is a spatial system that creates, manages, analyzes, and maps all types of data. GIS helps users understand patterns, relationships, and geographic context, which improves communication and efficiency as well as better management and decision-making.
 
-GIS provides a foundation for mapping and analysis that is used in science and almost every industry.
+## How is GIS used?
+GIS provides a foundation for mapping and analysis that is used in science and almost every industry. For instance:
+- [Identify present-day envrionmental inequalities to redlining policies](https://storymaps.arcgis.com/stories/0f58d49c566b486482b3e64e9e5f7ac9)
+
+- [Visualize and communicate envrionmental changes](https://storymaps.arcgis.com/stories/5a231e5e7d474bb886f1172f51b4b019)
+
+- [Perform forecasting such as predict and prepare for flooding](https://storymaps.arcgis.com/stories/4faf6d052c8f41b3b9b99c506642bca5)
+
+
 
 ## Desktop GIS vs. Online GIS
 
