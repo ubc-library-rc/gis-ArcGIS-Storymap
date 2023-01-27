@@ -4,7 +4,7 @@ title: Embed immersive content
 nav_order: 16
 parent: Create a ArcGIS Online Storymap
 ---
-## Embed immersive content and media to the Storymap
+## Embed immersive content and media to the Story Map
 
 ### Sidecar
 
@@ -42,7 +42,7 @@ parent: Create a ArcGIS Online Storymap
 
 - Always follow the instruction of local emergency officials.
 - Ensure each family member has waterproof clothing and footwear.
-- Lock all doors and windows and ensure gas, eletricity and water are shut off
+- Lock all doors and windows and ensure gas, electricity and water are shut off
 (the City of Abbotsford)"
 
 ![click_on_ribbon](images/story9.png)

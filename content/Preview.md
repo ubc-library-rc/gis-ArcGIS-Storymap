@@ -7,6 +7,7 @@ parent: Create a ArcGIS Online Storymap
 
 ## Preview
 
-Another tab on the top of the page is the **Preview**, it allows you to preview the Storymap from user interface on different devices (e.g. PC, Tablet and phone).
+Another tab on the top of the page is the **Preview**, it allows you to preview the Story Map from user interface on different devices (e.g. PC, Tablet and phone).
 
 ![click_on_ribbon](images/preview.png)
+

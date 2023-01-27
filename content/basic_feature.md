@@ -5,7 +5,7 @@ nav_order: 14
 parent: Create a ArcGIS Online Storymap
 ---
 
-## Add basic features to Storymap
+## Add basic features to Story Map
 
 ### Add a title
 
@@ -16,6 +16,8 @@ parent: Create a ArcGIS Online Storymap
 *2*{: .circle .circle-blue} Insert a image for the cover page from local files. You can use the prepared cover image in the downloaded .zip file or use your own image.
 
 ![click_on_ribbon](images/Story4.png)
+
+
 
 ### Add descriptive text
 

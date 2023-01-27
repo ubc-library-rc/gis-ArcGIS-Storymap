@@ -12,16 +12,16 @@ parent: Create a Web Map
 ![click_on_content](images/Click_on_content.png)
 
 
-*2*{: .circle .circle-blue} Click on the **Create new folder**, create a folder named Storymap Workshop.
+*2*{: .circle .circle-blue} Click on the **Create new folder**, create a folder named Story Map Workshop.
 ![click_on_content](images/Create_folder.png)
 
 
-*3*{: .circle .circle-blue} Click on the **Create new folder**, create a folder named Storymap Workshop.
+*3*{: .circle .circle-blue} Click on the **Create new folder**, create a folder named Story Map Workshop.
 
 ![click_on_content](images/add_item.png) Click on the **New Item** to add data from **Your device**. [ArcGIS online supports .zip, csv, GeoJSON, kml etc.](https://doc.arcgis.com/en/arcgis-online/reference/supported-items.htm) In this workshop, we will add a shapefile to ArcGIS online. 
 
 {: .note}
-You need to store your shapfile in .zip
+You need to store your shapefile in .zip
 
 
 *3*{: .circle .circle-blue} upload **flood_risk.zip** from downloaded data to the **Storymap_workshop** folder and create a hosted feature layer.

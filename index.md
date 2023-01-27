@@ -6,11 +6,10 @@ has_children: true
 has_toc: false
 ---
 
-# Note: this workshop is in development and not yet complete.
-# Diving Deeper with ArcGIS Online Storymap
+# Diving Deeper with ArcGIS Online Story Map
 ## Goals
 
-This workshop is part 2 of visualizing data in ArcGIS Online, focusing on creating Storymap with the ArcGIS Online platform and tools. This workshop is intended for those with introductory knowledge or experience with ArcGIS Online but looking for advanced features and functions of the story maps. There are three main sections: 1) Adding and exploring data from local and ArcGIS Online 2) Reviewing how to create a web map 3) Creating a Storymap from scratch. 
+This workshop is part 2 of visualizing data in ArcGIS Online, focusing on creating StoryMaps with the ArcGIS Online platform and tools. This workshop is intended for those with introductory knowledge or experience with ArcGIS Online but looking for advanced features and functions of the story maps. There are three main sections: 1) Adding and exploring data from local and ArcGIS Online 2) Reviewing how to create a web map 3) Creating a Story Map from scratch. 
 
 [Please feel free to review previous Introductory to ArcGIS Online Workshop](https://ubc-library-rc.github.io/intro-AGOL/)
 
@@ -18,10 +17,10 @@ This workshop is part 2 of visualizing data in ArcGIS Online, focusing on creati
 
 At the end of this workshop, you will be able to:
 - Configure design and themes
-- Add basic Storymap features 
-- Embed medias in Storymap
+- Add basic Story Map features 
+- Embed medias in Story map
 - Embed immersive content
-- Publish and share the Storymap
+- Publish and share the Story Map
 
 ## Setup
 
@@ -30,7 +29,7 @@ To Do
 
 *1*{: .circle .circle-blue} Create ArcGIS Online Account
 
-You will need to sign up for a free ArcGIS public account ahead of time. If you have an organizational account with Esri, you can choose to use your regular sign-in or create a separate free account.
+You will need to sign up for a free ArcGIS public account ahead of time. If you have an organizational account with Esri, you can choose to use your regular sign-in or create a separate free account. <https://www.arcgis.com/index.html>
 
  [Log in with the organization's URL](./setup_url)
 

@@ -11,9 +11,9 @@ nav_order: 6
 
 ## How is GIS used?
 GIS provides a foundation for mapping and analysis that is used in science and most industry. For instance:
-- [Identify present-day envrionmental inequalities to redlining policies](https://storymaps.arcgis.com/stories/0f58d49c566b486482b3e64e9e5f7ac9)
+- [Identify present-day environmental inequalities to redlining policies](https://storymaps.arcgis.com/stories/0f58d49c566b486482b3e64e9e5f7ac9)
 
-- [Visualize and communicate envrionmental changes](https://storymaps.arcgis.com/stories/5a231e5e7d474bb886f1172f51b4b019)
+- [Visualize and communicate environmental changes](https://storymaps.arcgis.com/stories/5a231e5e7d474bb886f1172f51b4b019)
 
 - [Perform forecasting such as predict and prepare for flooding](https://storymaps.arcgis.com/stories/4faf6d052c8f41b3b9b99c506642bca5)
 
@@ -21,7 +21,7 @@ GIS provides a foundation for mapping and analysis that is used in science and m
 
 ## Desktop GIS vs. Online GIS
 
-Desktop GIS is software installed on a computer, the data created through software will be saved locally. Desktop software has more capability to perform complex analysis and customize the display of data than online GIS.
+Desktop GIS is software installed on a computer, the data created through software will be saved locally. Desktop software has more capability to perform complex analysis and customize the display of data better than online GIS.
 
 - Example: ArcGIS Pro, QGIS
 
@@ -39,7 +39,7 @@ More resources about
 [ArcGIS Pro vs. ArcGIS Online](https://storymaps.arcgis.com/stories/bf37fb8c97ca405c8876553101933f4e)
 
 
-## What is Storymap?
+## What is StoryMaps?
 
 [ArcGIS StoryMaps](https://doc.arcgis.com/en/arcgis-storymaps/get-started/what-is-arcgis-storymaps.htm) is a story authoring web-based application that allows you to share your maps in the context of narrative text and other multimedia content. Storymap enables multimedia cartography and allows users to tell a story with interative map, pictures, videos and texts. It is easy to use and can be used a presentation tool.
 
@@ -64,3 +64,7 @@ More resources about
 ## A Workflow of Creating a Storymap
 
 ![FlowChart](images/storymap.png)
+
+- [ArcGIS Online Web Maps](https://doc.arcgis.com/en/arcgis-online/reference/what-is-web-map.htm): An ArcGIS web map is an interactive display of geographic information that you can use to tell stories and answer questions. 
+
+-[ArcGIS Online Web App](https://doc.arcgis.com/en/web-appbuilder/latest/create-apps/what-is-web-appbuilder.htm): ArcGIS Web AppBuilder is an intuitive what-you-see-is-what-you-get (WYSIWYG) application that allows you to build web apps without writing a single line of code. It includes tools to configure fully featured HTML apps. As you add your map and tools, you can see them in the app and use them right away.
