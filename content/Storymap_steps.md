@@ -7,7 +7,7 @@ has_toc: true
 ---
 ## ArcGIS Online Storymap
 
-To start a Storymap from scratch, go to [Story Maps](https://doc.arcgis.com/en/arcgis-storymaps/gallery/?rsource=https%3A%2F%2Fwww.esri.com%2Fen-us%2Farcgis%2Fproducts%2Farcgis-storymaps%2Fstories) and click on New Story.
+To start a Storymap from scratch, go to [Story Maps](https://storymaps.arcgis.com/stories) and click on New Story.
 
 Or from the top left of your web map, click on the three horizontal lines dropdown arrow and then right-click on **Content**. Click on the **Create app** and select **ArcGIS Storymaps**.
 
