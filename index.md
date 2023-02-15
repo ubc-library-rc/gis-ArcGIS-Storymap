@@ -51,3 +51,8 @@ All of the data for this workshop are under the license of creative commons or o
 - General Informational website for all things UBC GIS: <https://gis.ubc.ca/>
 - UBC Library’s guide for finding and working with GIS resources: <https://guides.library.ubc.ca/gis>
 - Connect with UBC's GIS Slack: <https://ubcgis.slack.com/>
+
+
+
+
+<a src="map.html" alt="fig1">

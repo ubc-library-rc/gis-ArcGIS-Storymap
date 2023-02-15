@@ -27,7 +27,7 @@ Desktop GIS is software installed on a computer, the data created through softwa
 
 Online GIS or Web GIS is powered by web services that deliver data and capabilities and connect components. Web GIS can be implemented in cloud or as a hybrid combination of desktop and online.
 
-- Example: ArcGIS Online, Mapbox, Leaflet
+- Example: ArcGIS Online, Map box, Leaflet
 
 
 ## ArcGIS pro vs. ArcGIS Online
@@ -41,27 +41,27 @@ More resources about
 
 ## What is StoryMaps?
 
-[ArcGIS StoryMaps](https://doc.arcgis.com/en/arcgis-storymaps/get-started/what-is-arcgis-storymaps.htm) is a story authoring web-based application that allows you to share your maps in the context of narrative text and other multimedia content. Storymap enables multimedia cartography and allows users to tell a story with interative map, pictures, videos and texts. It is easy to use and can be used a presentation tool.
+[ArcGIS StoryMaps](https://doc.arcgis.com/en/arcgis-storymaps/get-started/what-is-arcgis-storymaps.htm) is a story authoring web-based application that allows you to share your maps in the context of narrative text and other multimedia content. Story Map enables multimedia cartography and allows users to tell a story with interactive map, pictures, videos and texts. It is easy to use and can be used a presentation tool.
 
 
-- **Classic Storymap (Old Version) has storytelling templates**
+- **Classic StoryMaps (Old Version) has storytelling templates**
     - [Cascade](https://www.loc.gov/ghe/cascade/index.html?appid=2ac5e96246b442afa419a6c6842b1eae)
     - [Journal](https://apl.maps.arcgis.com/apps/MapJournal/index.html?appid=551cd1e6ae634234b5eb0f1e1ed9a02f)
     - [Series](https://wildfarmalliance.maps.arcgis.com/apps/MapSeries/index.html?appid=48771766bcf94e34b5fb19ca9e925a27)
     - [Shortlist](https://moncton.maps.arcgis.com/apps/Shortlist/index.html?appid=0dcea4990e3e424e936d7d459526f12f)
     - [Swipe&Spyglass](https://disasterresponse.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=30d087f4262c4fd0a2cbf37c6118cf1b)
     - [Tour](https://orl.maps.arcgis.com/apps/MapJournal/index.html?appid=fbaa6ab2b5f645ae99595ee13fbe490d)
-    - [more Classic Storymap example](https://storymaps-classic.arcgis.com/en/gallery/#s=0&md=storymaps-apps:map-tour)
+    - [more Classic Story Map example](https://storymaps-classic.arcgis.com/en/gallery/#s=0&md=storymaps-apps:map-tour)
 
-- **[ArcGIS Storymap (New Version)](https://storymaps.arcgis.com/stories/0d565f8fb4874e4fb44c6cb7276c78fb)**
-    - Allows mix and match of Classic Storymap template
+- **[ArcGIS Story Map (New Version)](https://storymaps.arcgis.com/stories/0d565f8fb4874e4fb44c6cb7276c78fb)**
+    - Allows mix and match of Classic Story Map template
     - Custom themes with one click
-    - New map desginer allows user to add basic info and annotation to a map
+    - New map designer allows user to add basic info and annotation to a map
     - Fast loading, easy sharing and great looking
     - [example](https://doc.arcgis.com/en/arcgis-storymaps/gallery/)
     
 
-## A Workflow of Creating a Storymap
+## A Workflow of Creating a StoryMaps
 
 ![FlowChart](images/storymap.png)
 

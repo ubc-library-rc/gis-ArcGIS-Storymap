@@ -163,7 +163,7 @@
   },"27": {
     "doc": "Introduction",
     "title": "Desktop GIS vs. Online GIS",
-    "content": "Desktop GIS is software installed on a computer, the data created through software will be saved locally. Desktop software has more capability to perform complex analysis and customize the display of data better than online GIS. | Example: ArcGIS Pro, QGIS | . Online GIS or Web GIS is powered by web services that deliver data and capabilities and connect components. Web GIS can be implemented in cloud or as a hybrid combination of desktop and online. | Example: ArcGIS Online, Mapbox, Leaflet | . ",
+    "content": "Desktop GIS is software installed on a computer, the data created through software will be saved locally. Desktop software has more capability to perform complex analysis and customize the display of data better than online GIS. | Example: ArcGIS Pro, QGIS | . Online GIS or Web GIS is powered by web services that deliver data and capabilities and connect components. Web GIS can be implemented in cloud or as a hybrid combination of desktop and online. | Example: ArcGIS Online, Map box, Leaflet | . ",
     "url": "http://localhost:4000/content/introduction.html#desktop-gis-vs-online-gis",
     "relUrl": "/content/introduction.html#desktop-gis-vs-online-gis"
   },"28": {
@@ -175,15 +175,15 @@
   },"29": {
     "doc": "Introduction",
     "title": "What is StoryMaps?",
-    "content": "ArcGIS StoryMaps is a story authoring web-based application that allows you to share your maps in the context of narrative text and other multimedia content. Storymap enables multimedia cartography and allows users to tell a story with interative map, pictures, videos and texts. It is easy to use and can be used a presentation tool. | Classic Storymap (Old Version) has storytelling templates . | Cascade | Journal | Series | Shortlist | Swipe&amp;Spyglass | Tour | more Classic Storymap example | . | ArcGIS Storymap (New Version) . | Allows mix and match of Classic Storymap template | Custom themes with one click | New map desginer allows user to add basic info and annotation to a map | Fast loading, easy sharing and great looking | example | . | . ",
+    "content": "ArcGIS StoryMaps is a story authoring web-based application that allows you to share your maps in the context of narrative text and other multimedia content. Story Map enables multimedia cartography and allows users to tell a story with interactive map, pictures, videos and texts. It is easy to use and can be used a presentation tool. | Classic StoryMaps (Old Version) has storytelling templates . | Cascade | Journal | Series | Shortlist | Swipe&amp;Spyglass | Tour | more Classic Story Map example | . | ArcGIS Story Map (New Version) . | Allows mix and match of Classic Story Map template | Custom themes with one click | New map designer allows user to add basic info and annotation to a map | Fast loading, easy sharing and great looking | example | . | . ",
     "url": "http://localhost:4000/content/introduction.html#what-is-storymaps",
     "relUrl": "/content/introduction.html#what-is-storymaps"
   },"30": {
     "doc": "Introduction",
-    "title": "A Workflow of Creating a Storymap",
+    "title": "A Workflow of Creating a StoryMaps",
     "content": ". | ArcGIS Online Web Maps: An ArcGIS web map is an interactive display of geographic information that you can use to tell stories and answer questions. | . -ArcGIS Online Web App: ArcGIS Web AppBuilder is an intuitive what-you-see-is-what-you-get (WYSIWYG) application that allows you to build web apps without writing a single line of code. It includes tools to configure fully featured HTML apps. As you add your map and tools, you can see them in the app and use them right away. ",
-    "url": "http://localhost:4000/content/introduction.html#a-workflow-of-creating-a-storymap",
-    "relUrl": "/content/introduction.html#a-workflow-of-creating-a-storymap"
+    "url": "http://localhost:4000/content/introduction.html#a-workflow-of-creating-a-storymaps",
+    "relUrl": "/content/introduction.html#a-workflow-of-creating-a-storymaps"
   },"31": {
     "doc": "Land acknowledgement",
     "title": "Land acknowledgement",
@@ -192,10 +192,10 @@
     "relUrl": "/land-acknowledgement.html"
   },"32": {
     "doc": "Publish the storymap",
-    "title": "How to publish the Storymap?",
-    "content": "Another tab on the top of the page is the Publish, make sure change your publish options to give the Storymap access to the viewer. You can always edit a published storymap. ",
-    "url": "http://localhost:4000/content/publish.html#how-to-publish-the-storymap",
-    "relUrl": "/content/publish.html#how-to-publish-the-storymap"
+    "title": "How to publish the Story Map?",
+    "content": "Another tab on the top of the page is the Publish, make sure change your publish options to give the Story Map access to the viewer. You can always edit a published Story Map. ",
+    "url": "http://localhost:4000/content/publish.html#how-to-publish-the-story-map",
+    "relUrl": "/content/publish.html#how-to-publish-the-story-map"
   },"33": {
     "doc": "Publish the storymap",
     "title": "Publish the storymap",
