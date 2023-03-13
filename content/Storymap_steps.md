@@ -15,14 +15,14 @@ Or from the top left of your web map, click on the three horizontal lines dropdo
 
 
 The Storymap Content blocks and features will be covered in this section:
-- Configure themes and add a logo
+- Configure themes and add a logo (Subscription only)
 - Preview the Storymap
 - Add basic features
     - Add title, subtitle, and Text
     - Add a Separator
 - Embed media
     - Add a video
-    - Add a Timeline
+    - Add a Timeline (Subscription only)
 - Embed immersive content and media
     - Sidecar
         - Add texts
@@ -31,7 +31,7 @@ The Storymap Content blocks and features will be covered in this section:
         - Swipe
         - Single color background and add text
     - Map Tour
-        - Insert a link
+        - Insert a link 
         - Add a button
 - Publish and share the story map
 

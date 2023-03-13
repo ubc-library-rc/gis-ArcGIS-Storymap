@@ -15,6 +15,10 @@ parent: Create a ArcGIS Online Storymap
 
 ### Create a Timeline
 
+{: .note}
+This feature is not available for public account.
+
+
 *2*{: .circle .circle-blue} Click the **green plus button** and select **Timeline** to illustrate a series of events choronolgically. There are three timeline layout, choose **Single side** for this case.
 
 Add following texts for the timeline:

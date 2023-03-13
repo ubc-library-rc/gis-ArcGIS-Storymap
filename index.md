@@ -39,7 +39,7 @@ You will need to sign up for a free ArcGIS public account ahead of time. If you 
 
 Click on the 'Download Data' button below to start the download. Once complete, extract the contents of the .zip file.
 
-[Download Data](/content/Downloads.zip){: .btn .btn-blue }
+[Download Data](/content/data.zip){: .btn .btn-blue }
 
 Please prepare four images that can be freely use for the workshop (links or save locally), or you can use the images provided.
 

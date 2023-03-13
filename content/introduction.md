@@ -67,4 +67,4 @@ More resources about
 
 - [ArcGIS Online Web Maps](https://doc.arcgis.com/en/arcgis-online/reference/what-is-web-map.htm): An ArcGIS web map is an interactive display of geographic information that you can use to tell stories and answer questions. 
 
--[ArcGIS Online Web App](https://doc.arcgis.com/en/web-appbuilder/latest/create-apps/what-is-web-appbuilder.htm): ArcGIS Web AppBuilder is an intuitive what-you-see-is-what-you-get (WYSIWYG) application that allows you to build web apps without writing a single line of code. It includes tools to configure fully featured HTML apps. As you add your map and tools, you can see them in the app and use them right away.
+- [ArcGIS Online Web App](https://doc.arcgis.com/en/web-appbuilder/latest/create-apps/what-is-web-appbuilder.htm): ArcGIS Web AppBuilder is an intuitive what-you-see-is-what-you-get (WYSIWYG) application that allows you to build web apps without writing a single line of code. It includes tools to configure fully featured HTML apps. As you add your map and tools, you can see them in the app and use them right away.

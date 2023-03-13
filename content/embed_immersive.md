@@ -61,7 +61,7 @@ parent: Create a ArcGIS Online Storymap
 
 
 ### Map tour
-*9*{: .circle .circle-blue} Let us explore some Tourism Attraction in the city of Abbotsford. Click the **green plus button** on the main page and select **map tour** to showcase a set of places your readers can explore in any order, or be led through one at a time. Choose start from scratch and guided and map focus as layout. 
+*9*{: .circle .circle-blue} Let us explore some Tourism Attraction in the city of Abbotsford. Click the **green plus button** on the main page and select **map tour** to showcase a set of places your readers can explore in any order, or be led through one at a time. Choose start from scratch. Then select guided and map focus as layout. 
 
 *10*{: .circle .circle-blue}Click the **add image** to add your prepared image here or insert a link: <https://www.flickr.com/photos/spetersongallery/38464945140>
 
@@ -77,6 +77,8 @@ You can use google map to find the [Google Street View](https://www.google.com/m
 ![click_on_ribbon](images/story10.png)
 
 *13*{: .circle .circle-blue} Add a new slide by clicking the **green plus button** in the side bar. Then, repeat Step 15 and 16 to add one more tourism attraction in the city of Abbotsford by yourself.
+
+There are two options of zoom level. **Use map tour setting** will automatically adjust the zoom level so all points are visible simultaneously. **Use current zoom level** will keep the zoom level always be street or city. The zoom level can be changed in map option.
 
 {: .note}
 The **Map Options** on the top right corner of Map Tour can adjust the map appearance, such as zoom level, basemap, point color and map type (2D or 3D).

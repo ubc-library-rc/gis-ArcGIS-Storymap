@@ -6,8 +6,6 @@ parent: Create a Web Map
 ---
 ## Add data layer from ArcGIS Online Community
 
-# Create a population map
-
 *1*{: .circle .circle-blue} Click on the **map** tab and back to the map view.
 
 *2*{: .circle .circle-blue} On the sidebar on the left, click on **Layers**, then on **Add layer** in the **Layers** pane that opens.

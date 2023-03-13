@@ -7,20 +7,16 @@ parent: Create a Web Map
 
 ## Symbology
 
-*1*{: .circle .circle-blue} Click on the **properties** of Flood risk polygon on the right sidebar, and then click the **Edit layer style**.
+*1*{: .circle .circle-blue} Click on **Style**  on the right sidebar.
 
-<img src="content/images/Edit_symbology.png" alt="fig1" style="height: 500px; width:300px;"/>
+<img src="content/images/sym_1.png" alt="fig1" style="height: 500px; width:300px;"/>
 
-*2*{: .circle .circle-blue} Click on the **Field** of Flood risk polygon on the right sidebar and change the display name of gridcode to **Flood Risk**.
+*2*{: .circle .circle-blue} Select **POP_2016** as the interested attribute, then pick **Counts and Amounts (color)** as a style.
 
-<img src="content/images/change_field_name.png" alt="fig1" style="height: 500px; width:500px;"/>
+<img src="content/images/sym_2.png" alt="fig1" style="height: 500px; width:300px;"/>
 
-*3*{: .circle .circle-blue} Select **flood Risk** as the interested attribute, then pick **Counts and Amounts (color)** as a style.
+*4*{: .circle .circle-blue} Click on **style option** and check **Classify data** with the **Natural Breaks** method. Enter **5** for the **Number of classes** and label each classes.
 
-<img src="content/images/attribute_sym.png" alt="fig1" style="height: 500px; width:250px;"/>
-
-*4*{: .circle .circle-blue} Select an appropriate **Symbol style** and **Classify data** with the **Natural Breaks** method. Enter **5** for the **Number of classes** and label each each classes.
-
-<img src="content/images/label.png" alt="fig1" style="height: 500px; width:250px;"/>
+<img src="content/images/sym_3.png" alt="fig1" style="height: 500px; width:300px;"/>
 
 *5*{: .circle .circle-blue} Click **Done** and **Save** your map.
