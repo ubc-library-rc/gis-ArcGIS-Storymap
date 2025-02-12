@@ -2,7 +2,7 @@
 layout: default
 title: Log in by creating an ArcGIS Online Public Account
 nav_order: 2
-parent: Outline
+parent: Introduction
 ---
 
 ##  Create an ArcGIS Public Account and follow the steps below:

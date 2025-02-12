@@ -2,7 +2,7 @@
 layout: default
 title: Log in ArcGIS Online through Organization URL
 nav_order: 3
-parent: Outline
+parent: Introduction
 ---
 
 ## Log in with the organization's URL
